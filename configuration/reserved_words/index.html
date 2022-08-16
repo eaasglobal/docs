@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/docs">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.713969107188">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.713969776384">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 2.4.0">
@@ -31,11 +31,11 @@
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("/docs/doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../../resources/css/retype.css?v=2.4.0.713969107188" rel="stylesheet" />
+    <link href="../../resources/css/retype.css?v=2.4.0.713969776384" rel="stylesheet" />
 
-    <script type="text/javascript" src="../../resources/js/config.js?v=2.4.0.713969107188" data-turbo-eval="false" defer></script>
+    <script type="text/javascript" src="../../resources/js/config.js?v=2.4.0.713969776384" data-turbo-eval="false" defer></script>
     <script type="text/javascript" src="../../resources/js/retype.js?v=2.4.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=2.4.0.713969107188" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=2.4.0.713969776384" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -277,7 +277,7 @@
     </h3>
 </doc-anchor-target>
 <p>A <code v-pre>CNAME</code> file will be automatically created if the <a href="../project/#url"><code v-pre>url</code></a> is configured with a domain or sub-domain.</p>
-<p>For instance, including <code v-pre>url: docs.example.com</code> within your <code v-pre>retype.yml</code> project config file also instructs Retype to create a <code v-pre>CNAME</code> file with the value <code v-pre>docs.example.com</code>. That <code v-pre>CNAME</code> file is used by <a href="../../guides/github-actions/">GitHub Pages</a> and possibly other website hosting services as the way to configure custom domain name hosting.</p>
+<p>For instance, including <code v-pre>url: docs.example.com</code> within your <code v-pre>retype.yml</code> project config file also instructs Retype to create a <code v-pre>CNAME</code> file with the value <code v-pre>docs.example.com</code>. That <code v-pre>CNAME</code> file is used by <a href="/guides/github-actions.md">GitHub Pages</a> and possibly other website hosting services as the way to configure custom domain name hosting.</p>
 <p>If you manually create a <code v-pre>CNAME</code> file within the root of the <a href="../project/#input">input</a> folder of your project, Retype will not automatically create the <code v-pre>CNAME</code> file, even if the <a href="../project/#url"><code v-pre>url</code></a> or <a href="../project/#cname"><code v-pre>cname</code></a> is configured or conflicts.</p>
 <doc-anchor-target id="default-pages">
     <h3>
@@ -299,13 +299,13 @@
         <span>Project config</span>
     </h3>
 </doc-anchor-target>
-<p>By default, if you do not pass an explicit project configuration file name in the <a href="../../guides/cli/#retype-watch"><code v-pre>&lt;path&gt;</code></a> command line argument, Retype will search for your project config using the following case insensitive priority:</p>
+<p>By default, if you do not pass an explicit project configuration file name in the <a href="/guides/cli.md#retype-watch"><code v-pre>&lt;path&gt;</code></a> command line argument, Retype will search for your project config using the following case insensitive priority:</p>
 <ol>
 <li><code v-pre>retype.yml</code></li>
 <li><code v-pre>retype.yaml</code></li>
 <li><code v-pre>retype.json</code></li>
 </ol>
-<p>For instance, if you run the <a href="../../guides/cli/">CLI</a> command <code v-pre>retype watch docs</code>, Retype will first try to find the project configuration file  <code v-pre>docs/retype.yml</code>. If not found, then <code v-pre>docs/retype.yaml</code> will be tested and so on.</p>
+<p>For instance, if you run the <a href="/guides/cli.md">CLI</a> command <code v-pre>retype watch docs</code>, Retype will first try to find the project configuration file  <code v-pre>docs/retype.yml</code>. If not found, then <code v-pre>docs/retype.yaml</code> will be tested and so on.</p>
 <p>If you run the command <code v-pre>retype watch docs/retype.json</code>, even if a <code v-pre>retype.yml</code> is present, Retype will only read the <code v-pre>retype.json</code> file as you are explicitly passing the project configuration file path.</p>
 <div class="flex mb-6">
     <div class="shrink-0 w-1 rounded-tl rounded-bl bg-blue-500 dark:bg-blue-400"></div>
