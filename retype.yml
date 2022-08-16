@@ -2,9 +2,9 @@ input: ./src
 url: eaasglobal.github.io/docs
 branding:
   label: Docs
-  logo: /src/logo-black.svg
+  logo: logo-black.svg
   logoAlign: left
-  logoDark: /src/logo-white.svg
+  logoDark: logo-white.svg
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
   links:
