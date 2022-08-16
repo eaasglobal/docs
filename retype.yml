@@ -1,7 +1,6 @@
 input: ./src
 url: eaasglobal.github.io/docs
 branding:
-  title: EAAS.GLOBAL
   label: Docs
   logo: logo-black.svg
   logoDark: logo-white.svg
@@ -10,3 +9,8 @@ footer:
   links:
     - text: Website
       link: https://eaas.global/
+meta:
+  title: "121 | Widgets"
+links:
+  - text: Website
+    link: https://eaas.global/
