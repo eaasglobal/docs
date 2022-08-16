@@ -1,0 +1,13 @@
+input: .
+output: .retype
+url: eaasglobal.github.io/docs
+branding:
+  title: EAAS.GLOBAL
+  label: Docs
+links:
+  - text: Getting Started
+    link: https://retype.com/guides/getting-started/
+ - text: About us
+    link: /about/
+footer:
+  copyright: "&copy; Copyright . All rights reserved."
