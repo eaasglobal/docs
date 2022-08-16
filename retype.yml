@@ -1,12 +1,7 @@
-input: .
-url: eaasglobal.github.io/docs
+input: ./src
+url: fstrauf.github.io/tokenomicsDAO
 branding:
   title: EaasGlobal
   label: Docs
-links:
-  - text: Getting Started
-    link: https://retype.com/guides/getting-started/
- - text: About us
-    link: /about/
 footer:
-  copyright: "&copy; Copyright . All rights reserved."
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
