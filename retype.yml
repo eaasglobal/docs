@@ -1,7 +1,7 @@
 input: .
 url: eaasglobal.github.io/docs
 branding:
-  title: EAAS.GLOBAL
+  title: EaasGlobal
   label: Docs
 links:
   - text: Getting Started
