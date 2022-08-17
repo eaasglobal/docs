@@ -1,1 +1,1 @@
-<link href="./src/static/eaas-custom.css" rel="stylesheet" />
+<link href="/src/static/eaas-custom.css" rel="stylesheet" />
