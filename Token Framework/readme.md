@@ -20,7 +20,6 @@ ERC-20
 https://bscscan.com
 === Fixed Supply:
 1 000 000 000
-===
 === IDO:
 After Public Sale Venue (see EAAS Token Public Sale)
 ===
