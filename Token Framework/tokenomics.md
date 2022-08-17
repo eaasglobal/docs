@@ -1,5 +1,5 @@
 ---
-icon: git-compare
+icon: dot
 tags: [guide]
 ---
 
