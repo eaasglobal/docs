@@ -35,6 +35,8 @@ The green energy market is known for high interest among investors.
 
 Let's start with the fact that we place synergy above the competition. The mission of EAAS is to **connect various entities operating** within the **green energy market** to ensure transparency and at the same time create the greatest possible value together. Although there are entities on the market offering the so-called green certificates or intermediaries in energy exchange, none of them perceives the subject *as widely as we do.*
 
+![](src/headers/ceritificate_header.png)
+
 Our goal is to **unite and connect** all energy production and consumption participants like governments, administration, energy operators, prosumers and become a leading auditor of the green energy market and a certificate exchange based on blockchain technology.
 
 ---
