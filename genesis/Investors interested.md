@@ -7,6 +7,8 @@ icon: dot
 # Investors interested in our project
 
 We have completed the private sale phase. We raised over $2.5 million from 10 international investment funds:
+![](src/investors/logo_fera_capital.png)
+![](src/investors/logo_chaining_stars.png)
 
 ![](src/investors/logo_chaining_stars.png) | type1 | value1
 :---   | :---: | ---:
