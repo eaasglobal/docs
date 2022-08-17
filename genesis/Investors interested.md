@@ -7,8 +7,8 @@ icon: dot
 # Investors interested in our project
 
 We have completed the private sale phase. We raised over $2.5 million from 10 international investment funds:
-![](/src/investors/logo_fera_capital.png)
-![](./src/investors/logo_chaining_stars.png)
+![https://github.com/retypeapp/retype/discussions/282](/src/investors/logo_fera_capital.png)
+[![](/src/investors/logo_chaining_stars.png)](https://semver.org/)
 
 ![](/src/investors/logo_chaining_stars.png) | type1 | value1
 :---   | :---: | ---:
