@@ -36,7 +36,7 @@ Token functions enables in the EAAS Token framework operations solution. These i
 
 The token allows for an exchange of value based on the DEX/CEX exchange price.
 
-![The framework indicates where and how the token will be applied.](src/headers/token_is_a_validation.png)
+![The framework indicates where and how the token will be applied.](/src/headers/token_is_a_validation.png)
 
 
 ---
