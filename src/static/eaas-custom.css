@@ -86,3 +86,7 @@
     --tw-text-opacity:1;
     color:rgb(95 160 255/var(--tw-text-opacity))
 }
+:root {
+    --logoLabel-text: #27c492;
+    --logoLabel-background: #e3fff6;
+}
