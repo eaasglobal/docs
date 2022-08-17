@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/docs">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.714055808179">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.714055898895">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 2.4.0">
@@ -35,12 +35,12 @@
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("/docs/doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../favicon.jpg" rel="icon" />
-    <link href="../../resources/css/retype.css?v=2.4.0.714055808179" rel="stylesheet" />
+    <link href="../../resources/css/retype.css?v=2.4.0.714055898895" rel="stylesheet" />
 
-    <script type="text/javascript" src="../../resources/js/config.js?v=2.4.0.714055808179" data-turbo-eval="false" defer></script>
+    <script type="text/javascript" src="../../resources/js/config.js?v=2.4.0.714055898895" data-turbo-eval="false" defer></script>
     <script type="text/javascript" src="../../resources/js/retype.js?v=2.4.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=2.4.0.714055808179" data-turbo-eval="false" defer></script>
-    <script id="prism-js" type="text/javascript" src="../../resources/js/prism.js?v=2.4.0.714055808179" defer></script>
+    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=2.4.0.714055898895" data-turbo-eval="false" defer></script>
+    <script id="prism-js" type="text/javascript" src="../../resources/js/prism.js?v=2.4.0.714055898895" defer></script>
 
     <link href="./src/static/eaas-custom.css" rel="stylesheet" />
 
@@ -261,7 +261,7 @@
             </svg>
         </div>
         <div class="pr-5 ml-3 w-full">
-<p>Be sure to review the <a href="../../configuration/project/">project</a> options available within the <code v-pre>retype.yml</code> as it does unlock a lot more power, flexibility, and customization.</p>
+<p>Be sure to review the <a href="/configuration/project.md">project</a> options available within the <code v-pre>retype.yml</code> as it does unlock a lot more power, flexibility, and customization.</p>
         </div>
     </div>
 </div>
@@ -351,14 +351,14 @@ links:
 footer:
   copyright: &quot;&amp;copy; Copyright . All rights reserved.&quot;</code></pre>
 </doc-codeblock></div>
-<p>All the configs are optional, but the above sample demonstrates a few of the options you will typically want to start with. See the <a href="../../configuration/project/">project</a> configuration docs for a full list of all options.</p>
+<p>All the configs are optional, but the above sample demonstrates a few of the options you will typically want to start with. See the <a href="/configuration/project.md">project</a> configuration docs for a full list of all options.</p>
 <p>To change the title of the project, revise the <code v-pre>branding.title</code> config. For instance, let&#x27;s change to <code v-pre>Company X</code>:</p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <pre class="language-yaml"><code v-pre class="language-yaml">branding:
   title: Company X</code></pre>
 </doc-codeblock></div>
 <p>If there is already a <code v-pre>retype.yml</code> file within the project, runnin the <code v-pre>retype init</code> command will not create a new <code v-pre>retype.yml</code> file.</p>
-<p>The <code v-pre>retype.yml</code> file is not <em>actually</em> required, but you will want to make custom <a href="../../configuration/project/">configurations</a> to your project and this is how those instructions are passed to Retype.</p>
+<p>The <code v-pre>retype.yml</code> file is not <em>actually</em> required, but you will want to make custom <a href="/configuration/project.md">configurations</a> to your project and this is how those instructions are passed to Retype.</p>
 <doc-anchor-target id="options-1">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#options-1">#</doc-anchor-trigger>
@@ -387,7 +387,7 @@ Options:
         <span><code v-pre>retype build</code></span>
     </h2>
 </doc-anchor-target>
-<p>To generate your new website, run the command <code v-pre>retype build</code>. This command builds a new website based upon the <code v-pre>.md</code> files within the <a href="../../configuration/project/"><code v-pre>input</code></a> location.</p>
+<p>To generate your new website, run the command <code v-pre>retype build</code>. This command builds a new website based upon the <code v-pre>.md</code> files within the <a href="/configuration/project.md"><code v-pre>input</code></a> location.</p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <pre class="language-none"><code v-pre class="language-none">retype build</code></pre>
 </doc-codeblock></div>
@@ -585,7 +585,7 @@ Options:
     </h3>
 </doc-anchor-target>
 <p>The following sample demonstrates overriding a more complex configuration object.</p>
-<p>Using the following <code v-pre>retype.yml</code> project configuration file as an example, let&#x27;s change the <a href="../../configuration/project/#label"><code v-pre>label</code></a> to <code v-pre>beta</code>, instead of <code v-pre>v1.10</code>.</p>
+<p>Using the following <code v-pre>retype.yml</code> project configuration file as an example, let&#x27;s change the <a href="/configuration/project.md#label"><code v-pre>label</code></a> to <code v-pre>beta</code>, instead of <code v-pre>v1.10</code>.</p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><code v-pre>retype.yml</code></div>
 <pre class="language-yaml"><code v-pre class="language-yaml">branding:
@@ -606,7 +606,7 @@ Options:
         <span>Add to list</span>
     </h3>
 </doc-anchor-target>
-<p>The following command will add a <code v-pre>GitHub</code> link to the list of <a href="../../configuration/project/#links"><code v-pre>links</code></a>.</p>
+<p>The following command will add a <code v-pre>GitHub</code> link to the list of <a href="/configuration/project.md#links"><code v-pre>links</code></a>.</p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><code v-pre>retype.yml</code></div>
 <pre class="language-yaml"><code v-pre class="language-yaml">links:
