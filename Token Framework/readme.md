@@ -6,6 +6,8 @@ expanded: true
 
 # EAAS Token
 
+Information about our EAAS Token. General Information.
+
 === Token name:
 EAAS
 === Ticker:
