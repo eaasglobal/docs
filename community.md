@@ -6,8 +6,8 @@ label: Community
 Our community is strong and growing in different channels.
 
 
-Platform | Objectives | Link
-:--- | :--- | :---
+Platform | Objectives | Link { class="compact" }
+--- | --- | ---
 Main page |   | https://EAAS.global/
 Discord | Get informed, ask questions, engage | https://discord.gg/9ksu3XAfeM
 Telegram General | Get informed and answered, ask questions, engage | https://t.me/EaasChat
