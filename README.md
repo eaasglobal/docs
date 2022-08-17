@@ -11,8 +11,8 @@ icon: home
         border-radius: 5px;
         background-color: #E1EDFF;
         border: 1px solid #1956AF;
-        padding-top: 10px;
-        margin-bottom: 10px;
+        padding-top: 20px;
+        margin-bottom: 20px;
     }
 </style>
 Where a mission of [EAAS](https://eaas.global/) is to organize and liberate the green energy market by uniting all players in the market onto our blockchain platform, making the trading of green energy certification totally transparent, traceable, and democratized, while affording the opportunity to better forecast and adapt to the fluctuating demands of the grid through IoT devices, AI and data analytics.
