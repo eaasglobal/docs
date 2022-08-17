@@ -1,6 +1,7 @@
 ---
 icon: north-star
 order: 500
+expanded: true
 ---
 
 # Genesis

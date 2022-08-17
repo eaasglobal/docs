@@ -2,8 +2,19 @@
 icon: dot
 label: What is for?
 ---
-
-# What it is for?
+At the beginning the EAAS token complies with the ERC-20 standard and can be stored on any wallet that supports this standard, such as Binance Chain Wallet, MetaMask, TrustWallet, or our platform.
+ 
+In the framework enables EAAS Token some utilities and some use cases like:
+ 
+1. Minting NFTs,
+2. Buying and selling assets on cross chain EAAS Framework,
+3. Staking NFT rewards,
+4. Various in-energy activities, for p2p users.
+5. Governance and voting also for government users.
+ 
+*EAAS token explorer*
+ 
+EAAS Token explorer is a porting of BscScan a public and transparent Binance blockchain explorer to the energy world. It allows us to present stored decentralized information about the amount of produced, traded green energy at an individual producer stored on the blockchain. It allows you to view the transactions that have taken place recently in terms of each decentralized information and the use of the NFT token in each wallet.
 
 It provides liquidity in the staking, metaverse and defi framework. In the first interaction of the platform functionality, it is designed according to ERC20 technology. We assume that the tokenomy of the token used in the EAAS framework will grow with increased sales and development of new EAAS Smart Box features. The tight coupling of EAAS NFT with hardware in the primary market will cause the EAAS Token price to rise.
  
@@ -40,25 +51,3 @@ The usability of the solution today is within the range of possibilities gradual
 EAAS guarantees staking utility, which means that coin stakers will earn passive income from everyday rewards and weekly airdrops coming from the multi-asset staking features.
  
 Due to the decentralized model, stakers will also influence the crucial aspects of platform development, i.e., yield, buyback, or burn percentage. Moreover, token holders will enjoy decreasing inflation model additionally boosted by buyback & burning mechanism, fueled by transaction fees.
-
----
-
-## EAAS Token benefits for investors
-
-EAAS Token also give some benefits for investors in the EAAS’s framework, among them:
- 
-1. Staking Utility – where EAAS stakers will earn passive income not only from everyday EAAS rewards but also from weekly airdrops coming from our multi-asset staking feature.
-
-2. Governance – when EAAS stakers will have an influence on the crucial aspects of platform development such as staking yield, buyback & burn percentage etc.
- 
-3. Deflationary Tokenomics – then EAAS token holders will enjoy decreasing inflation model additionally boosted by buyback & burning mechanism, fueled by transaction fees.
-
----
-
-## How to earn EAAS Token?
-
-The EAAS Token can be obtained by profiting from the secondary market for renewable
-energy trading, also by profiting from trading the decentralized EAAS Token for the
-prosumer in energy payments on DEX/CEX exchanges
-
-![](https://i.imgur.com/dYrqNpB.png)
