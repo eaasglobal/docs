@@ -5,9 +5,10 @@ label: Community
 
 Our community is strong and growing in different channels.
 
-Platform   | Objectives | Link
-:---   | :--- | :---
-Main page |    | https://EAAS.global/
+
+Platform | Objectives | Link
+:--- | :--- | :---
+Main page |   | https://EAAS.global/
 Discord | Get informed, ask questions, engage | https://discord.gg/9ksu3XAfeM
 Telegram General | Get informed and answered, ask questions, engage | https://t.me/EaasChat
 Telegram News | Get news | https://t.me/EAASNews
@@ -18,6 +19,7 @@ Instagram | Get informed, share our photos, stories, and videos with the friends
 TikTok | Watch us as creator, like videos and view comments | https://www.tiktok.com/@eaas.global
 YouTube | Get watched videos with the friends and followers you care about. | https://www.youtube.com/channel/UCVWwEakONV5TpBVAZPIQbTA
 ​
+
 **Anyone is welcomed, not matter of:**
 - Age
 - Gender reassignment

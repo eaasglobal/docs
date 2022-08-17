@@ -12,7 +12,7 @@ In the framework enables EAAS Token some utilities and some use cases like:
 4. Various in-energy activities, for p2p users.
 5. Governance and voting also for government users.
  
-*EAAS token explorer*
+EAAS token explorer
  
 EAAS Token explorer is a porting of BscScan a public and transparent Binance blockchain explorer to the energy world. It allows us to present stored decentralized information about the amount of produced, traded green energy at an individual producer stored on the blockchain. It allows you to view the transactions that have taken place recently in terms of each decentralized information and the use of the NFT token in each wallet.
 

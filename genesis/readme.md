@@ -1,6 +1,6 @@
 ---
 icon: north-star
-order: 500
+order: 3000
 expanded: true
 ---
 
