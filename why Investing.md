@@ -1,5 +1,5 @@
 ---
-icon: rocket
+icon: organization
 label: Why Investing in EAAS’s world of green energy?
 ---
 

@@ -1,5 +1,5 @@
 ---
-icon: north-star
+icon: rocket
 order: 3000
 expanded: true
 ---
