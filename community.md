@@ -18,6 +18,7 @@ Our community is strong and growing in different channels.
 | TikTok           | *Watch us as creator, like videos and view comments.*                                                   | https://tiktok.com/@eaas.global                      |
 | YouTube          | *Get watched videos with the friends and followers you care about.*                                      | https://youtube.com/channel/UCVWwEakONV5TpBVAZPIQbTA |
 
+![](src/headers/people_welcome.png)
 
 **Anyone is welcomed, not matter of:**
 - Age
