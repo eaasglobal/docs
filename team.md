@@ -25,6 +25,6 @@ The team is composed of eleven fulltime members and advisors.
 |---------------------------|--------------------|
 | Stedsm                    | @stedsm22          |
 | EAAS Community Manager    | @annaweberofficial |
-| Brainzy | never DM first  | @Brainzy_CM        |
+| Brainzy l never DM first  | @Brainzy_CM        |
 | Grzegorz Krzeszowski, CEO | @greghype          |
 | Casp EAAS                 | @casp_EAAS         |
