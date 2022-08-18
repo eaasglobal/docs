@@ -53,6 +53,6 @@ EAAS Token makes it possible to **recognize** the origin of energy, validate it 
 
 ## Support
 
-Do you have a questions? Please feel free to contact and to our [community](https://github.com/retypeapp/retype/issues).
+Do you have a questions? Please feel free to contact and to our [community](/community).
 
 We :heart: feedback.
