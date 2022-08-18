@@ -10,3 +10,5 @@ EAAS Token also give some benefits for investors in the EAAS’s framework, amon
 2. Governance – when EAAS stakers will have an influence on the crucial aspects of platform development such as staking yield, buyback & burn percentage etc.
  
 3. Deflationary Tokenomics – then EAAS token holders will enjoy decreasing inflation model additionally boosted by buyback & burning mechanism, fueled by transaction fees.
+
+![](src/headers/benefits_for_investors.png)
