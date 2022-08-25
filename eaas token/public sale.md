@@ -17,30 +17,30 @@ The listing for EAAS Token will occur after the completion of the Public SALE an
 
 |                      |                                                                      |
 |----------------------|----------------------------------------------------------------------|
-| Public Sale Venue:   | https://eaas.global/                                                 |
-| Public Sale Start:   | Monday, 25th of July at 16:30 CET                                    |
-| Public Sale End:     | Thursday, 11th of August at 16:30 CET (or after all tokens are sold) |
-| Public Sale Price:   | $0.10                                                                |
-| Soft cap:            | $500.000                                                             |
-| Hard cap:            | $1.500.000                                                           |
-| Accepted currencies: | USDT / USDC / ETH                                                    |
-| Public Sale Network: | Binance Smart Chain                                                  |
-| Excluded countries:  | USA, North Korea                                                     |
+| **Public Sale Venue:**   | https://eaas.global/                                                 |
+| **Public Sale Start:**   | Monday, 25th of July at 16:30 CET                                    |
+| **Public Sale End:**     | Thursday, 11th of August at 16:30 CET (or after all tokens are sold) |
+| **Public Sale Price:**   | $0.10                                                                |
+| **Soft cap:**            | $500.000                                                             |
+| **Hard cap:**            | $1.500.000                                                           |
+| **Accepted currencies:** | USDT / USDC / ETH                                                    |
+| **Public Sale Network:** | Binance Smart Chain                                                  |
+| **Excluded countries:**  | USA, North Korea                                                     |
 
 ## Dates
 
 |                      |                           |
 |----------------------|---------------------------|
-| Listing Date & Time: | August 12nd— 10:00 AM UTC |
-| Listing Place:       | LBANK Exchange            |
-| Listing Price:       | $0.10                     |
+| **Listing Date & Time:** | August 12nd— 10:00 AM UTC |
+| **Listing Place:**       | LBANK Exchange            |
+| **Listing Price:**       | $0.10                     |
 
 ## Market
 
 |                             |                     |
 |-----------------------------|---------------------|
-| Initial Market Cap:         | $433,387.08         |
-| Initial Circulating Supply: | 4,333,870.76        |
+| **Initial Market Cap:**         | $433,387.08         |
+| **Initial Circulating Supply:** | 4,333,870.76        |
 
 # Token Timelines and Bonuses
 
@@ -48,18 +48,18 @@ The following timelines are ascribed to our Public Sale on the EAAS website:
 
 |                      |                         |
 |----------------------|-------------------------|
-| Tier 1:              | JULY 25’th — 16:30 UTC  |
-| Tier 2:              | AUGUST 2’nd — 12:00 UTC |
+| **Tier 1:**              | JULY 25’th — 16:30 UTC  |
+| **Tier 2:**              | AUGUST 2’nd — 12:00 UTC |
 
 ## Token Bonuses
 
 |                              |                                                              |
 |------------------------------|--------------------------------------------------------------|
-| The first 100 investors      | will receive 20% of their investment extra (6 months lockup) |
-| The First 101-200 investors  | will receive 15% of their investment extra (6 months lockup) |
-| The First 201-300 investors  | will receive 10% of their investment extra (6 months lockup) |
-| The First 301-600 investors  | will receive 5% of their investment extra (6 months lockup)  |
-| The First 601-1000 investors | will receive 3% of their investment extra (6 months lockup)  |
+| **The first 100 investors**      | will receive 20% of their investment extra (6 months lockup) |
+| **The First 101-200 investors**  | will receive 15% of their investment extra (6 months lockup) |
+| **The First 201-300 investors**  | will receive 10% of their investment extra (6 months lockup) |
+| **The First 301-600 investors**  | will receive 5% of their investment extra (6 months lockup)  |
+| **The First 601-1000 investors** | will receive 3% of their investment extra (6 months lockup)  |
 
 # How to participate?
 
@@ -79,10 +79,10 @@ For transparency and convenience, we’ve listed the following figures for our c
 
 |                    |                                               |                                   |
 |--------------------|-----------------------------------------------|-----------------------------------|
-| Seed Funding:      | $350,000 (3% TGE — 1,050,000 EAAS Tokens)     | 5% monthly unlocks                |
-| Strategic Funding: | $207,500,000 (5% TGE — 207,500 EAAS Tokens)   | 5% monthly unlocks                |
-| PRIVATE Funding:   | $207,500,000 (7% TGE — 1,407,000 EAAS Tokens) | 7% monthly unlocks                |
-| Public:            | $500,000 (10% TGE — 50,000 Tokens)            | 10% Monthly Unlocks for 9 months. |
+| **Seed Funding:**      | $350,000 (3% TGE — 1,050,000 EAAS Tokens)     | 5% monthly unlocks                |
+| **Strategic Funding:** | $207,500,000 (5% TGE — 207,500 EAAS Tokens)   | 5% monthly unlocks                |
+| **PRIVATE Funding:**   | $207,500,000 (7% TGE — 1,407,000 EAAS Tokens) | 7% monthly unlocks                |
+| **Public:**            | $500,000 (10% TGE — 50,000 Tokens)            | 10% Monthly Unlocks for 9 months. |
 
 We will be hosting several giveaways and activities with influencers in the following days on our:
  

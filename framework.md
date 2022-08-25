@@ -1,6 +1,7 @@
 ---
 icon: database
 label: EAAS Framework
+order: 1000
 ---
 
 Below is a diagram of the overarching design of the **EAAS FRAMEWORK**. It shouldn't be thought of as a technical diagram, but more of as
