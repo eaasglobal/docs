@@ -7,4 +7,5 @@ The EAAS Token can be obtained by profiting from the secondary market for renewa
 energy trading, also by profiting from trading the decentralized EAAS Token for the
 prosumer in energy payments on DEX/CEX exchanges
 
-![](https://i.imgur.com/dYrqNpB.png)
+
+![](src/headers/eaas_global_web3.png)
