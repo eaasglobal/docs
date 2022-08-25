@@ -6,7 +6,7 @@ expanded: true
 
 # EAAS Token
 
---![](src/headers/eaas-token.svg)--
+--![](src/headers/eaas-token.jpg)--
 
 Information about our EAAS Token. General Information.
 
