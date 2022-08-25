@@ -4,7 +4,7 @@ label: EAAS Smart Box
 order: 1500
 ---
 
--![](src/headers/eaas-smart-box.jpg)
+![](src/headers/eaas-smart-box.jpg)
 
 **Hardware validator of consumption,** production and efficiency of **installations for off grid (independent)** manufacturers from renewable sources.
 

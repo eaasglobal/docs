@@ -7,7 +7,7 @@ Setup Wallet, which is first important step to take place in public sale.
  
 Connecting to Metamask Wallet
  
-How to connect your Metamask Wallet to https://eaas.global/
+How to connect your Metamask Wallet to [eaas.global](https://eaas.global/)
  
 Desktop:
  
@@ -20,7 +20,7 @@ You will also need to add Binance Smart Chain to your Metamask wallet, [HERE](ht
 
 ## Connecting wallet
 
-You can connect to https://eaas.global! 
+You can connect to [eaas.global](https://eaas.global/)!
 
 Here's how:
 
@@ -33,12 +33,12 @@ Mobile Devices:
  
 To connect Eaas.Global to Metamask on a Mobile Device, it is best to use Metamask's built-in browser in Metamask Wallet Mobile App.
  
-Metamask Mobile - Connect to https://eaas.global/
+Metamask Mobile - Connect to [eaas.global](https://eaas.global/)
  
 1. Open the Metamask Wallet app on your mobile device. 
 2. After authenticating, click on the hamburger-menu (three straight lines) icon in the top-left of the screen.
 3. Select the ‘Browser’ button.
-4. Navigate to https://eaas.global/ in the URL field at the top of the page.
+4. Navigate to [eaas.global](https://eaas.global/) in the URL field at the top of the page.
 5. Click ‘Connect Wallet’
 6. Confirm the wallet connection.
  
