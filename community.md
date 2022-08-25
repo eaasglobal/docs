@@ -5,7 +5,7 @@ label: Community
 
 Our community is strong and growing in different channels.
 
-| Platform         | Objectives                                                                                            | Link                                                     |
+| **Platform**         | **Objectives**                                                                                            | **Link**                                                     |
 |------------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
 | Main page        |                                                                                                       | https://eaas.global/                                     |
 | Discord          | *Get informed, ask questions, engage.*                                                                 | https://discord.gg/9ksu3XAfeM                            |
