@@ -1,5 +1,5 @@
 ---
-icon: database
+icon: workflow
 label: EAAS Framework
 order: 2000
 ---
