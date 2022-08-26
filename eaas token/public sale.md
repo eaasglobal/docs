@@ -3,6 +3,8 @@ icon: dot
 label: Token Public Sale
 ---
 
+## Token Public Sale
+
 This public round of EAAS TOKEN has a maximum value of $500,000. It will be split in half between 14 days for the community for maximum exposure.
 
 After that, EAAS Token will be listed on the LBANK exchange on the 12th of August.
