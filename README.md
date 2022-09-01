@@ -55,4 +55,4 @@ EAAS Token makes it possible to **recognize** the origin of energy, validate it 
 
 Do you have a questions? Please feel free to contact and to our [community](/community).
 
-We :heart: feedback.
+We :green_heart: feedback.
