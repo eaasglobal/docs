@@ -16,7 +16,7 @@ Our community is strong and growing in different channels.
 | LinkedIn         | *Get informed, engage, and share contents.*                                                             | https://linkedin.com/company/EAASglobal/             |
 | Instagram        | *Get informed, share our photos, stories,*<br>*and videos with the friends and followers you care about.* | https://instagram.com/eaasglobal/                    |
 | TikTok           | *Watch us as creator, like videos and view comments.*                                                   | https://tiktok.com/@eaas.global                      |
-| YouTube          | *Get watched videos with the friends and followers you care about.*                                      | https://youtube.com/channel/UCVWwEakONV5TpBVAZPIQbTA |
+| YouTube          | *Get watched videos with the friends and followers you care about.*                                      | https://www.youtube.com/c/EaasGlobal |
 
 ![](src/headers/people_welcome.png)
 
