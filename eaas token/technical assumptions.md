@@ -7,7 +7,7 @@ EAAS Token is a **validator**, which will be the main premise in *building a fra
 
 **The transaction will not happen without the EAAS Token**, which constitutes 1% of the transfer value of the transaction. EAAS is a green Energy *confirmer*. **Without it, it is not possible** to read the transaction. For the world of blockchain technology we give for adoption and scale, which is not easy to achieve being nested only in one ecosystem.
 
-![](src/headers/technical_assumptions_of_eaas.png)
+![](/src/headers/technical_assumptions_of_eaas.png)
 
 ---
 

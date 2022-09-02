@@ -11,4 +11,4 @@ EAAS Token also give some **benefits** for investors in the EAAS’s framework, 
  
 3. **Deflationary Tokenomics** – then EAAS token holders will enjoy *decreasing inflation model* additionally boosted by buyback & burning mechanism, fueled by transaction fees.
 
-![](src/headers/benefits_for_investors.png)
+![](/src/headers/benefits_for_investors.png)
