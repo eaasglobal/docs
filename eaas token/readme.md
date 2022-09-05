@@ -19,7 +19,7 @@ Binance Smart Chain
 === Fungible Token Contract:
 [TBA]
 === Fungible Token Standard:
-BEP-20
+BEP20
 === Blockchain browser:
 https://bscscan.com
 === Fixed Supply:
