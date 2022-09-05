@@ -15,15 +15,15 @@ EAAS
 === Ticker:
 EAAS
 === Blockchain
-Binance SmartChain
+Binance Smart Chain
 === Fungible Token Contract:
 [TBA]
 === Fungible Token Standard:
-ERC-20
+BEP-20
 === Blockchain browser:
 https://bscscan.com
 === Fixed Supply:
 1 000 000 000
 === IDO:
-After Public Sale Venue (see EAAS Token Public Sale)
+Check https://eaas.global/
 ===
