@@ -1,5 +1,5 @@
 input: ./
-url: eaasglobal.github.io/docs
+url: docs.eaas.global
 branding:
   logo: src/static/logo-black.svg
   logoDark: src/static/logo-white.svg
@@ -9,7 +9,7 @@ meta:
 links:
   - text: Home
     icon: home
-    link: https://eaasglobal.github.io/docs/
+    link: https://docs.eaas.global/
   - text: Community
     link: /community
     icon: share-android
