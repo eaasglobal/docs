@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://eaasglobal.github.io/docs/sitemap.xml.gz
+Sitemap: https://docs.eaas.global/sitemap.xml.gz
