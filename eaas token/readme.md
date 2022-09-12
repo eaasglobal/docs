@@ -27,3 +27,5 @@ https://bscscan.com
 === IDO:
 Check https://eaas.global/
 ===
+
+![](/src/about-token.jpg)
