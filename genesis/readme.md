@@ -2,6 +2,7 @@
 icon: rocket
 order: 3000
 expanded: true
+tags: [why, what_for, purpose]
 ---
 
 # Genesis

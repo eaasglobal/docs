@@ -1,6 +1,7 @@
 ---
 label: Welcome
 icon: home
+tags: [fundaments]
 ---
 # Welcome to EAAS.GLOBAL docs
 
