@@ -1,6 +1,7 @@
 ---
 icon: dot
 label: Benefits for investors
+tags: [benefits, earn, swap]
 ---
 
 EAAS Token also give some **benefits** for investors in the EAAS’s framework, among them:

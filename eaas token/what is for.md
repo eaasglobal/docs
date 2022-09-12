@@ -1,6 +1,7 @@
 ---
 icon: dot
 label: What is for?
+tags: [exchange, token, eaas-token, earn, swap]
 ---
 At the beginning the EAAS token complies with the ERC-20 standard and can be stored on *any wallet* that supports this standard, such as **Binance Chain Wallet, MetaMask, TrustWallet, or our platform**.
  

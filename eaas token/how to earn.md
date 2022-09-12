@@ -1,6 +1,7 @@
 ---
 icon: dot
 label: How to earn EAAS Token?
+tags: [earn, exchange, invests, earn]
 ---
 
 The EAAS Token can be obtained by profiting from the secondary market for renewable

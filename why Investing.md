@@ -1,6 +1,7 @@
 ---
 icon: organization
 label: Why Investing in EAAS’s world of green energy?
+tags: [invest, benefits, eaas-token, swap]
 ---
 
 1. One of the main reasons is **Diversification** - the EAAS token will *deploy green energy use* across multiple grid operators so you can **always** have the protection you’re looking for.

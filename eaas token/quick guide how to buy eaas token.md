@@ -1,6 +1,7 @@
 ---
 icon: dot
 label: Quick guide - How to buy Eaas Token
+tags: [app, eaas-token, invests, earn]
 ---
 
 **Setup Wallet**, which is first important step to take place in public sale.

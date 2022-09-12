@@ -2,6 +2,7 @@
 icon: workflow
 label: EAAS Framework
 order: 2000
+tags: [why, exchange]
 ---
 
 ![](src/headers/eaas-framework.jpg)

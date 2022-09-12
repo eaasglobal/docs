@@ -1,6 +1,7 @@
 ---
 icon: dot
 label: Technical assumptions of EAAS token
+tags: [token, eaas-token, exchange]
 ---
 
 EAAS Token is a **validator**, which will be the main premise in *building a framework* that will allow *cross chain transactions* between blockchains. EAAS validates, meaning there is a *container in every transaction*, so 99% of the value of the funds transfer in the transaction is **another token** e.g., coming from Avalanche, Polygon, Solana’s, Everscale blockchain ecosystems. 

@@ -2,6 +2,7 @@
 label: Investors interested in our project
 order: 100
 icon: dot
+tags: [invests, funds, together]
 ---
 
 # Investors interested in our project

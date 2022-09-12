@@ -1,6 +1,7 @@
 ---
 icon: dot
 label: Token Public Sale
+tags: [token, eaas-token, benefits]
 ---
 
 ## Token Public Sale
