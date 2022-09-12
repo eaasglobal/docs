@@ -1,6 +1,7 @@
 ---
 icon: people
 label: Team
+tags: [fundaments]
 ---
 
 The team is composed of eleven fulltime members and advisors.
@@ -19,7 +20,6 @@ The team is composed of eleven fulltime members and advisors.
 | Tomek      | Head of Social Media Design     |
 | Tomek      | Head of Community Communication |
 | Kacper     | Head of Community Management    |
-| Steads     | Moderating Manager              |
 | Weronika   | Community PR                    |
 | Karol      | Web3 Wallet Development         |
 | Victor     | Blockchain Developer            |
