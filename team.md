@@ -10,7 +10,7 @@ The team is composed of eleven fulltime members and advisors.
 |------------|---------------------------------|
 | Greg       | CEO                             |
 | Martyna    | Head of Hardware Development    |
-| Piotrek    | Head of Graphics Design         |
+| Piotr      | Head of Graphics Design         |
 | Marek      | Head of Platform Development    |
 | Artur      | Soleketro Operations            |
 | Karol      | Head of ML                      |
@@ -25,7 +25,7 @@ The team is composed of eleven fulltime members and advisors.
 | Victor     | Blockchain Developer            |
 | Jason      | Asia Community Manager          |
 | Marcin     | Website Designer                |
-| Karolina   | Docuemnation Officer            |
+| Karolina   | Documentation Officer           |
 | Gina       | Head of Korea Community         |
 | Rio        | Head of Partnerships            |
 
