@@ -153,6 +153,9 @@ a:hover a:focus {
 }
 .infopacity {
     opacity: 10%;
+    border: 1px dashed rgba(0, 0, 0, 0.1);
+    border-radius: 6px;
+    padding: 5px 10px;
 }
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 .information {
