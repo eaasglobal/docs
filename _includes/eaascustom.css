@@ -125,20 +125,20 @@ border-color:rgb(34 170 127/var(--tw-bg-opacity));
     --tw-text-opacity:1;
     color:rgb(34 170 127/var(--tw-text-opacity));
 }
-.a:hover{
+.a:hover {
     --tw-text-opacity:1;
     color:rgb(103 226 180/var(--tw-text-opacity)) !important;
 }
-.text-blue-800:hover{
+.text-blue-800:hover {
     --tw-text-opacity:1;
     color:rgb(103 226 180/var(--tw-text-opacity)) !important;
 }
-a text-blue-800:hover{
+a text-blue-800:hover {
     --tw-text-opacity:1;
     color:rgb(103 226 180/var(--tw-text-opacity)) !important;
 }
 
-a:hover a:focus{
+a:hover a:focus {
     --tw-text-opacity:1;
     color:rgb(103 226 180/var(--tw-text-opacity)) !important;
 }
@@ -150,6 +150,9 @@ a:hover a:focus{
     border: 1px solid rgb(103 226 180/var(--tw-text-opacity));
     padding-top: 20px;
     margin-bottom: 20px;
+}
+.infopacity {
+    opacity: 10%;
 }
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 .information {
