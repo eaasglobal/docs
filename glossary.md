@@ -8,6 +8,8 @@ order: 4000
 # Glossary
 All the jargon, terms and abbreviations you ever need to know about carbon and ESG management.
 
+<hr>
+
 :::infopacity
 ## ABC
 :::
