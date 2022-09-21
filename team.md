@@ -4,7 +4,8 @@ label: Team
 tags: [fundaments]
 ---
 
-The team is composed of eleven fulltime members and advisors.
+Few months of dedicated work by our brilliant team, we are happy to announce stealth team behind growth behind EAAS Token, EAAS Framework and EAAS SMART BOX.
+Gratefully, we can rely on an extensive network of friends and partners whose #web3 carbon stacks and climate finance services support our cause. 
 
 | **Member** | **Position**                    |
 |------------|---------------------------------|
@@ -26,7 +27,7 @@ The team is composed of eleven fulltime members and advisors.
 | Jason      | Asia Community Manager          |
 | Marcin     | Website Designer                |
 | Karolina   | Documentation Officer           |
-| Gina       | Head of Korea Community         |
+| Kim-Io     | Head of Korea Community         |
 | Rio        | Head of Partnerships            |
 
 ## Legendary Mods
