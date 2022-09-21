@@ -5,7 +5,7 @@ branding:
   logoDark: src/static/logo-white.svg
   label: DOCS
 meta:
-  title: "docs.EAAS - "
+  title: " | EAAS Docs"
 links:
   - text: Home
     icon: home
