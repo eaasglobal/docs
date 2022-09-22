@@ -37,7 +37,7 @@ Carbon accounting refers to the systematic methodologies, measurement, and monit
 # Carbon dioxide (CO₂)
 Carbon dioxide (or CO₂) is a colourless, odourless gas consisting of one part carbon and two parts oxygen. CO₂ is a natural component of our planet's atmosphere and is one of the most common greenhouse gases. Humanity releases more carbon dioxide –primarily through burning fossil fuels like coal and oil– into the atmosphere than current biological processes can remove, the amount and concentration of carbon dioxide in the atmosphere and ocean increases yearly.
 
-# # Carbon dioxide equivalent (CO₂e)
+# Carbon dioxide equivalent (CO₂e)
 Carbon dioxide equivalent (CO₂e) is a single unit metric used to harmonise emissions from many different greenhouse gases based on their Global Warming Potential (GWP). In greenhouse gas accounting, CO₂e is more accurate than CO₂ alone because it covers the GWPs of all greenhouse gases that capture heat and warm our planet's atmosphere.
 
 Carbon emissions
