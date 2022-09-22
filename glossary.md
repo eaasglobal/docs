@@ -1,6 +1,6 @@
 ---
 icon: note
-label: Glossary
+label: Green Energy Glossary
 tags: [fundaments]
 order: 4000
 ---
