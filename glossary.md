@@ -7,7 +7,7 @@ order: 4000
 
 # Green Energy Glossary
 We are presenting you with the most important terms from the Green Energy, climate and sustainability world. Some words are confusing but they come across in conversations quite often - please check our glossary below.
-![](/src/headers/benefits_for_investors.png)
+![](/src/headers/green_energy_glossary.png)
 
 :::infopacity
 ## ABC
