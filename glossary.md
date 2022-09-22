@@ -1,7 +1,7 @@
 ---
 icon: note
 label: Green Energy Glossary
-tags: [fundaments]
+tags: [fundaments, guide]
 order: 4000
 ---
 
