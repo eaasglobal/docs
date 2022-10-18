@@ -1,5 +1,5 @@
 ---
-icon: cache
+icon: container
 label: EAAS API
 order: 1550
 tags: [device, api, web3]
