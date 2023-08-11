@@ -9,7 +9,7 @@ Where a mission of [EAAS](https://eaas.global/) is to organize and liberate the 
 
 ![](src/headers/welcome_header.jpg)
 
-Our vision is to deliver a service, which will **facilitate and automate green energy** trading and provide better usability and transparency for any user.
+Our vision is to deliver a service, which will **facilitate and automate green energy** trading and provide better usability and transparency for any user. 
  
 We aim to unite and connect all the members of the energy production and consumption process: governments, administration, energy, operators, and prosumers and become not only a leading greed energy certifier but also **a green energy certificate exchange.**
 
