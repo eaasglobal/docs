@@ -10,7 +10,3 @@ tags: [device, app, earn]
 **Hardware validator of consumption,** production and efficiency of **installations for off grid (independent)** manufacturers from renewable sources.
 
 --![](src/headers/about-smartbox-app.png)--
-
-## Explainer video
-
-[!embed](https://www.youtube.com/watch?v=DqcwIQ5rSQA)
