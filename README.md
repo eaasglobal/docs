@@ -3,7 +3,7 @@ label: Welcome
 icon: home
 tags: [fundaments, connect, exchange]
 ---
-# Welcome to EAAS.GLOBAL docs
+# Welcome to EAAS.GLOBAL doc
 
 Where a mission of [EAAS](https://eaas.global/) is to organize and liberate the green energy market by uniting all players in the market onto our blockchain platform, making the trading of green energy certification totally transparent, traceable, and democratized, while affording the opportunity to better forecast and adapt to the fluctuating demands of the grid through IoT devices, AI and data analytics.
 
