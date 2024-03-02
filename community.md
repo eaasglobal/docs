@@ -15,7 +15,7 @@ Our community is strong and growing in different channels.
 
 ![](src/headers/people_welcome.png)
 
-**Anyone is welcomed, not matter of:**
+**Anyone is welcomed, not matter of: **
 - Age
 - Gender reassignment
 - Being married or in a civil partnership
