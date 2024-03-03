@@ -182,3 +182,5 @@ a:hover a:focus {
 .dark .docs-copyright a {
     color:rgb(85 221 178/var(--tw-bg-opacity));
 }
+
+img[alt=depin] { width: 200px; }

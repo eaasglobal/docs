@@ -11,13 +11,14 @@ Where a mission of [EAAS](https://eaas.global/) is to organize and liberate the 
 
 Our vision is to deliver a service, which will **facilitate and automate green energy** trading and provide better usability and transparency for any user. 
  
-We aim to unite and connect all the members of the energy production and consumption process: governments, administration, energy, operators, and prosumers and become not only a leading greed energy certifier but also **a green energy certificate exchange.**
+We aim to unite and connect all the members of the energy production and consumption process: governments, administration, energy, operators, and prosumers and become not only a leading green energy certifier but also **a green energy certificate exchange.**
 
 ---
 
 ## Introduction
 
-We combine traditional technologies with *solutions of the future.* We mix IoT, blockchain, and NFT with hardware in the form of an EV charger, the prototype you can see on the film on our YouTube. But we are not going to stop there. We are constantly looking for both **new technologies** and the **synergy effect between them.**
+At [EAAS](https://eaas.global/), we blend traditional technologies with future solutions. We integrate IoT, blockchain, and DePIN Hardware with our native EAAS App, to create CO2 credit. However, our innovation doesn't stop there. We continuously seek out new technologies and explore their synergy to drive progress.
+. We are constantly looking for both **new technologies** and the **synergy effect between them.**
 
 :::information
 The green energy market is known for high interest among investors.
@@ -39,16 +40,18 @@ We believe in changing the status quo in energy origin. We enable the opening of
  
 *In the future,* we believe that there will be **a change in energy regulation** that will allow for a legal basis of ownership for produced energy put into power off grid’s models. Eventually, there will also be a revolution in the transmission and consumption of green energy, even **without our own power grid.**
  
-EAAS Token makes it possible to **recognize** the origin of energy, validate it in terms of whether it is green energy or not. On this basis, energy can be bought back at a future, probably (historically looking at energy prices) higher price, directly and from any EAAS user.
+$EAAS RWA Token makes it possible to **recognize**  the origin of energy, validate it in terms of whether it is green energy or not. On this basis, energy can be bought back at a future, probably (historically looking at energy prices) higher price, directly and from any EAAS user.
+
 
 ---
 
-## EAAS Token in our solution
+## $EAAS RWA Token lies at the core of our solution, serving as:
 
-1. is an **investment** vehicle,
-2. a cryptocurrency value that **certifies green energy** production as measured by the EAAS Smart Box and partners technology,
-3. is used **to store** the value of the energy produced in **digital form** in the EAAS framework,
-4. is easily *transferable* and *tradable* and is used to **receive the green energy** produced and stored in **the EAAS framework.**
+
+1. an **investment** vehicle,
+2. a cryptocurrency **certifying** green energy production by native **EAAS APP**
+3. a means to **store** and **trade** the value of energy produced digitally within the **EAAS framework**
+4. is easily *transferable* and *tradable* and is used to **receive the green energy** produced and stored within our platform
 
 ---
 
