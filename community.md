@@ -1,5 +1,6 @@
 ---
 icon: comment-discussion
+order: 500
 label: Community
 ---
 
