@@ -1,5 +1,6 @@
 ---
 icon: dot
+order: 200
 label: Token Public Sale
 tags: [token, eaas-token, benefits]
 ---

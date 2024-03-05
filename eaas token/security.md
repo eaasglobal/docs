@@ -1,5 +1,6 @@
 ---
 icon: dot
+order: 250
 label: Security
 ---
 

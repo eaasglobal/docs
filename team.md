@@ -1,6 +1,7 @@
 ---
 icon: people
 label: Team
+order: 1000
 tags: [fundaments]
 ---
 

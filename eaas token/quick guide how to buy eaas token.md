@@ -1,5 +1,6 @@
 ---
 icon: dot
+order: 100
 label: Quick guide - How to buy Eaas Token
 tags: [app, eaas-token, invests, earn]
 ---

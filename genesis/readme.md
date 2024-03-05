@@ -1,7 +1,7 @@
 ---
 icon: rocket
-order: 3000
-expanded: true
+order: 5000
+expanded: false
 tags: [why, benefits]
 ---
 
