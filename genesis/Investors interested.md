@@ -7,7 +7,7 @@ tags: [invests, funds, together]
 
 # Investors interested in our project
 
-We have completed the private sale phase. We raised over $2.5 million from 10 international investment funds:
+We have completed the private sale phase. We raised over $1.5 million from 10 international investment funds:
 
 [![](/src/investors/logo_halvings_capital.png)](https://halvingscapital.com/) | [![](/src/investors/logo_fish_dao.png)](https://fishdao.io/) | [![](/src/investors/logo_lucrosus_capital.png)](https://www.lucrosus.capital/)
 :---:   | :---: | :---:
