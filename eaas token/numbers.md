@@ -6,7 +6,7 @@ icon: dot
 # EAAS in Numbers
 
 :::information
-**$EAAS** systemic usage leads to higher token price
+**$DEPIN** systemic usage leads to higher token price
 :::
 
 

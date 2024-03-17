@@ -5,6 +5,6 @@ label: How to earn EAAS Token?
 tags: [earn, exchange, invests, earn]
 ---
 
-The $EAAS RWA token can be earned and exchanged through our native app, enabling users to convert collected CO2 credits into $EAAS RWA tokens based on location. Additionally, users can profit from trading the decentralized EAAS Token for energy payments on DEX/CEX exchanges.
+Through our native app, users may exchange and earn the $Depin token, which allows them to convert CO2 credits obtained through geolocation into $Depin tokens. Users can also make money by trading the token on markets like DEX and CEX.
 
-![](src/headers/eaas_global_web3.png)
+![](/src/headers/eaas_global_web3.png)

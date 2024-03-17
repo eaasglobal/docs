@@ -6,23 +6,36 @@ icon: dot
 ![](/src/headers/reward.jpg)
 
 
-The app features a TIER system where users are categorized based on their own criteria. Depending on their TIER, the allocation of CO2 credits for their sustainability actions varies. This tiered approach ensures tailored rewards that match individual sustainability efforts and commitment levels   
+With the app's TIER concept, users can be grouped according to their own standards. The distribution of CO2 credits for their sustainability initiatives differs based on their TIER. This tiered system guarantees customized rewards based on each person's level of commitment and sustainability initiatives.  
 
 ## <span style="color:lightgreen">Basic(BSC)</span>
-Global Accessibility: Accessible to users worldwide via the EAAS Native app.  
-Effortless Rewards: Swift $EAAS RWA Token RWA Token rewards available every 45 days.  
-Exchangeability: $EAAS RWA Token can be exchanged for one tonne of CO2.  
-User-Friendly Interface: Streamlined onboarding process and community rewards (AIRDROPS).
+Global Accessibility: The EAAS Native app is available to users anywhere in the world.
+
+Simple Benefits: Quick Rewards for $Depin Token are given out every 45 days.
+
+Exchangeability: Collected to CO2 credits can be exchanged into $Depin token at location based price
+
+User-Friendly Interface: Community recognition and a simplified onboarding process (AIRDROPS).
 
 ## <span style="color:lightgreen">Advanced(ADV)</span>
-Location-Based Services: Tailored services through the EAAS Native app based on user location.  
-KYC Compliance: Compliance with B2B and B2C legal regulations including comprehensive reports.  
-Transferability: Seamless transfer of CO2 and $EAAS RWA Tokens between parties.  
-Monthly Claiming: Regular claiming cycles for enhanced user engagement.Users who have completed KYC and shared information receive multiplier rewards.
+Geolocaiton: Based on the user's location, the EAAS Native app provides personalized services.
+
+KYC Compliance: Complete report compliance and observance of B2B and B2C legal obligations.
+
+Transferability: The ease with which parties can swap CO2 and $Depin Tokens.
+
+Monthly Claiming: Consistent cycles of claims to improve user interaction.
+
+Users who have shared information and finished KYC are rewarded with multipliers.
 
 ## <span style="color:lightgreen">PRO</span>
 
-DePIN Activation: Affordable activation accompanied by an AIRDROP BONUS(early users).  
-Governmental Compliance: Hard proof reporting suitable for governmental use.  
-Scalability: Unlimited potential for $EAAS RWA Token rewards  
-Weekly Claims: Frequent claiming intervals to maximize benefits.  
+DePIN Activation: For early users, an inexpensive activation that also comes with an AIRDROP BONUS.
+
+Governmental Compliance: Reports with hard evidence appropriate for use by the government.  
+
+Scalability: Endless possibilities for incentives in $Depin Tokens  
+
+Every week Claims: To optimize benefits, make claims often.  
+
+Users rewarded with multipliers.
