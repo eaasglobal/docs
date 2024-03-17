@@ -5,7 +5,19 @@ order: 4500
 
 
 # Market
+![](/src/headers/market.png)
 
+![](/src/headers/4_Pain_Solution.png)
+
+::: information
+*EAAS.GLOBAL helps you to monetize your carbon footprint data in exchange for CO2 credits*
+:::
+
+![](/src/headers/6_businessmodel.png)
+
+![](/src/headers/9_synergy.png)
+
+<!--
 The carbon market, valued at $100 billion, is experiencing exponential growth, nearly doubling annually. S&P Global forecasts the EU Carbon Price to fluctuate between 80.80 EUR and 95.50 EUR per metric ton of CO2 equivalent (mtCO2e).
 
 
@@ -30,6 +42,6 @@ After nearly three years of intensive research and development in technology, le
 1. **All-in-One Exchange Framework**: Our innovative framework simplifies carbon credit acquisition, transfer, and scoring, catering to both individuals and businesses worldwide.
 2. **User-Centric Design**: Our mobile app and DePIN hardware prioritize user-friendliness and accessibility, making environmental impact assets more approachable and intuitive for all users.
 3. **Global Compliance**: Fully compliant with the stringent EU legal framework, ensuring regulatory adherence and instilling trust among users and stakeholders alike.
+-->
 
 
-## <span style="color:lightgreen">EAAS swaps ESG, carbon and green energy data for CO2 carbon credits</span>

@@ -7,7 +7,7 @@ tags: [fundaments, connect, exchange]
 
 Where a mission of [EAAS](https://eaas.global/) is to organize and liberate the green energy market by uniting all players in the market onto our blockchain platform, making the trading of green energy certification totally transparent, traceable, and democratized, while affording the opportunity to better forecast and adapt to the fluctuating demands of the grid through IoT devices, AI and data analytics.
 
-![](src/headers/welcome_header.jpg)
+![](/src/headers/main_eaas.png)
 
 Our vision is to deliver a service, which will **facilitate and automate green energy** trading and provide better usability and transparency for any user. 
  
@@ -25,7 +25,7 @@ The green energy market is known for high interest among investors.
 
 Let's start with the fact that we place synergy above the competition. The mission of EAAS is to **connect various entities operating** within the **green energy market** to ensure transparency and at the same time create the greatest possible value together. Although there are entities on the market offering the so-called green certificates or intermediaries in energy exchange, none of them perceives the subject *as widely as we do.*
 
-![](src/headers/ceritificate_header.png)
+![](/src/headers/ceritificate_header.png)
 
 Our goal is to **unite and connect** all energy production and consumption participants like governments, administration, energy operators, prosumers and become a leading auditor of the green energy market and a certificate exchange based on blockchain technology.
 
@@ -43,10 +43,10 @@ EAAS Token makes it possible to **recognize** the origin of energy, validate it 
 
 ---
 
-## EAAS Token in our solution
+## Depin Token in our solution
 
 1. is an **investment** vehicle,
-2. a cryptocurrency value that **certifies green energy** production as measured by the EAAS Smart Box and partners technology,
+2. a cryptocurrency value that **certifies green energy** production as measured by the DePIN Hardware and native app,
 3. is used **to store** the value of the energy produced in **digital form** in the EAAS framework,
 4. is easily *transferable* and *tradable* and is used to **receive the green energy** produced and stored in **the EAAS framework.**
 
