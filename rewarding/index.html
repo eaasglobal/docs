@@ -201,7 +201,7 @@
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.764026477220">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.764410486596">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.5.0">
@@ -209,7 +209,7 @@
     <!-- Primary Meta Tags -->
     <title>Reward Allocation Algorithm | EAAS Docs</title>
     <meta name="title" content="Reward Allocation Algorithm | EAAS Docs">
-    <meta name="description" content="Through the use of rewarding mechanism, users at different levels (BSC, ADV, and Pro) are motivated to take part in various activities inside the...">
+    <meta name="description" content="Through the use of rewarding mechanism, users at different levels (CAS, ADV, and PRO) are motivated to take part in various activities inside the...">
 
     <!-- Canonical -->
     <link rel="canonical" href="https://docs.eaas.global/rewarding/">
@@ -218,23 +218,21 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://docs.eaas.global/rewarding/">
     <meta property="og:title" content="Reward Allocation Algorithm | EAAS Docs">
-    <meta property="og:description" content="Through the use of rewarding mechanism, users at different levels (BSC, ADV, and Pro) are motivated to take part in various activities inside the...">
-    <meta property="og:image" content="https://docs.eaas.global/src/headers/algorithm_math.jpg">
+    <meta property="og:description" content="Through the use of rewarding mechanism, users at different levels (CAS, ADV, and PRO) are motivated to take part in various activities inside the...">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://docs.eaas.global/rewarding/">
     <meta property="twitter:title" content="Reward Allocation Algorithm | EAAS Docs">
-    <meta property="twitter:description" content="Through the use of rewarding mechanism, users at different levels (BSC, ADV, and Pro) are motivated to take part in various activities inside the...">
-    <meta property="twitter:image" content="https://docs.eaas.global/src/headers/algorithm_math.jpg">
+    <meta property="twitter:description" content="Through the use of rewarding mechanism, users at different levels (CAS, ADV, and PRO) are motivated to take part in various activities inside the...">
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../resources/css/retype.css?v=3.5.0.764026477220" rel="stylesheet">
+    <link href="../resources/css/retype.css?v=3.5.0.764410486596" rel="stylesheet">
 
-    <script data-cfasync="false" src="../resources/js/config.js?v=3.5.0.764026477220" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../resources/js/config.js?v=3.5.0.764410486596" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.5.0.764026477220" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.5.0.764410486596" data-turbo-eval="false" defer></script>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -821,7 +819,7 @@
         <span>Reward Allocation Algorithm</span>
     </h1>
 </doc-anchor-target>
-<p>Through the use of rewarding mechanism, users at different levels (BSC, ADV, and Pro) are motivated to take part in various activities inside the application. Our goal is promoting environmental sustainability and community participation. Rewards are allocated to user as $Depin tokens based on CO2 credit price and usesr&#x27;s geolocation after 45 days of use. Activities include answering carbon-related and ESG questions, using the Depin device (available only to Pro users), completing behavioural challenges, and recommending the app to others to create community.</p>
+<p>Through the use of rewarding mechanism, users at different levels (CAS, ADV, and PRO) are motivated to take part in various activities inside the application. Our goal is promoting environmental sustainability and community participation. Rewards are allocated to user as $DEPIN tokens based on CO2 credit price and users&#x27;s TIER and geolocation after 45/30/7 days of use. Activities include answering carbon-related and ESG questions, using the DePIN device (available only to Pro users), completing behavioural challenges, and recommending the app to others to create community.</p>
 <doc-anchor-target id="algorithms">
     <h2>
         <doc-anchor-trigger class="header-anchor-trigger" to="#algorithms">#</doc-anchor-trigger>
@@ -830,10 +828,10 @@
 </doc-anchor-target>
 <p>We use a methodical process to reward each user&#x27;s based on their actions within the app. The algorithm&#x27;s high-level summary is as follows:</p>
 <ul>
-<li>we Identify and define the activities that users can take to get rewards. These include but not limited to learing and completing ESG related information and tasks, Carbon, using Depin hardware(Pro users), behavioral actions, and referrals.</li>
+<li>we Identify and define the activities that users can take to get rewards. These include but not limited to learing and completing ESG related information and tasks, Carbon, using DePIN hardware(PRO users), behavioral actions, and referrals.</li>
 <li>we assign amount of CO2 credit to each action based on its importance or contribution to our company&#x27;s goals. These values are predefined and configurable based on importance, user base, and objectives</li>
 <li>we then calculate total CO2 credit collected by each user</li>
-<li>we then allocate Rewards in $Depin token to each user based on location and users total CO2 credits collected</li>
+<li>we then allocate Rewards in $DEPIN token to each user based on location and users total CO2 credits collected</li>
 </ul>
 <doc-anchor-target id="define-user-tiers-and-tasks">
     <h2>
@@ -842,11 +840,11 @@
     </h2>
 </doc-anchor-target>
 <ul>
-<li>BSC, ADV, and Pro users are able to do 20 ESG questions every month and 10 quizzes pertaining to carbon.</li>
-<li>The Depin hardware is only accessible to Pro users in order to measure monthly Kwatt use.</li>
-<li>Up to five people can be referred by BSC users each month.</li>
+<li>CAS, ADV, and PRO users are able to do 20 ESG questions every month and 10 quizzes pertaining to carbon.</li>
+<li>The DePIN hardware is only accessible to PRO users in order to measure monthly Kwatt use.</li>
+<li>Up to five people can be referred by CAS users each month.</li>
 <li>ADV users have a monthly referral limit of 25 people.</li>
-<li>Each month, pro users can recommend up to 100 people.</li>
+<li>Each month, PRO users can recommend up to 100 people.</li>
 <li>Behavioral tasks are available to all tiers.</li>
 </ul>
 <doc-anchor-target id="assign-co2-scoring-values">
@@ -861,7 +859,7 @@
 <thead>
 <tr>
 <th>category</th>
-<th>BSC</th>
+<th>CAS</th>
 <th>ADV</th>
 <th>PRO</th>
 </tr>
@@ -900,28 +898,28 @@
 </tbody>
 </table>
 </div>
-<hr>
-<hr>
-<p><strong>Total CO2 Credits Earned by User i</strong></p>
-<p><em>Ci = Ei × ESGi + Ci × Carboni + (10 × Depini) / 100 + Bi × Behaviorali + CCi</em></p>
+<p><em>EAAS.GLOBAL has the right to modify scores in its own discreation</em></p>
+<doc-anchor-target id="total-co2-credits-earned-by-user-i">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#total-co2-credits-earned-by-user-i">#</doc-anchor-trigger>
+        <span>Total CO2 Credits Earned by User i**</span>
+    </h2>
+</doc-anchor-target>
+<p><em>T𝒊=𝑬𝒊∗𝑬𝑺𝑮𝒊+𝑪𝒊 ∗𝑪𝑨𝑹𝑩𝑶𝑵𝒊+(𝟏𝟎∗𝑫𝑬𝑷𝑰𝑵𝒊)/(𝟏𝟎𝟎 𝒌𝑾𝑨𝑻)+𝑩𝒊 ∗𝑩𝑬𝑯𝑨𝑽𝑰𝑶𝑹𝑨𝑳𝒊+𝑪𝑪𝒊∗𝑪𝑴𝑪𝒊</em></p>
 <p><strong>Where:</strong></p>
 <ul>
-<li>Ci: Total CO2 credits earned by user i</li>
-<li>Ei,Ci,Di,Bi,CCi: CO2 scoring values for ESG, Carbon, Depin, Behavioral, and CC categories, respectively in KG of CO2 credit.</li>
-<li>ESGi,Carboni,Depini,Behaviorali,CCi: Number of actions completed by user i in each category.</li>
+<li>Ti​: Total CO2 credits earned by user i</li>
+<li>Ei​,Ci​,Di​,Bi​,CCi​: CO2 scoring values for ESG, Carbon, DePIN, Behavioral, and CC categories, respectively in KG of CO2 credit.</li>
+<li>ESGi​,Carboni​,DePINi​,Behaviorali​,CMCi​: Number of actions completed by user i in each category</li>
 </ul>
 <hr>
-<p><strong>Reward in $Depin Tokens for User i:</strong></p>
-<p><figure class="content-center">
-    <img src="../src/headers/algorithm_math.jpg" alt="">
-    <figcaption class="caption"></figcaption>
-</figure>
-</p>
+<p><strong>Reward in $DEPIN Tokens for User i:</strong></p>
+<img src="/src/headers/algorithm_math.jpg" width="300">
 <p><strong>Where:</strong></p>
 <ul>
-<li>Ri: Reward in $EAAS RWA tokens for user i</li>
+<li>Ri: Reward in $DEPIN tokens for user i</li>
 <li>CO2_credit_price(GEO(: Price of CO2 credit at the user&#x27;s geolocation (per ton)</li>
-<li>Depin_token_price: Price of $Depin token in Blockchain</li>
+<li>$DEPIN_token_price: Price of $DEPIN token in Blockchain</li>
 </ul>
 <doc-anchor-target id="to-sum-up">
     <h2>
@@ -1014,7 +1012,7 @@
 
     <div id="docs-overlay-target"></div>
 
-    <script data-cfasync="false">window.__DOCS__ = { "title": "Reward Allocation Algorithm", level: 1, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false, tocDepth: 23 }</script>
+    <script data-cfasync="false">window.__DOCS__ = { "title": "Rewarding", level: 1, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false, tocDepth: 23 }</script>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
