@@ -72,7 +72,6 @@ info@eaas.global
 
 -->
 
-![](/src/headers/depin_2.png)
-
+<img src="/src/headers/depin_2.png" width="300">
 
 
