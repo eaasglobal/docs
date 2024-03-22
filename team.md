@@ -51,56 +51,47 @@ Gratefully, we can rely on an extensive network of friends and partners whose #w
 
 | Team Name                                       | Title                              | Social Link                                       |
 |-------------------------------------------------|------------------------------------|---------------------------------------------------|
-|      |   | 
 | Gregory Krzeszowski                        | CEO                                | [LinkedIn](https://www.linkedin.com/in/grzegorzkrzeszowski/) |
-|                                                 |                                    |                                                   |
-| **Legal Claim of CO2 International EU USA and ASIA Framework** |                                    |                                                   |
-| Tom                                             | Legal Head, PhD Candidate         | [LinkedIn](https://www.linkedin.com/in/tomaszkaczmarski-1498572a9/) |
+| **Legal** |                                    |                                                   |
+| Tomasz Kaczmarski                                             | Legal Head, PhD Candidate         | [LinkedIn](https://www.linkedin.com/in/tomaszkaczmarski-1498572a9/) |
 | Amelia Wroblewska                               | MD Legal, Carbon Credits Legal    | [LinkedIn](https://www.linkedin.com/in/amelia-wr%C3%B3blewska-a28b23166/) |
-| Iza Monska                                      |Legal                                    | [LinkedIn](https://www.linkedin.com/in/izabela-mo%C5%84ska-a6b98a210/) |
-|                                                 |                                    |                                                   |
+| Izabela Monska                                      |Legal                                    | [LinkedIn](https://www.linkedin.com/in/izabela-mo%C5%84ska-a6b98a210/) |
 | **App**                                         |                                    |                                                   |
 | Marek Golan                                     | App Tech                           | [LinkedIn](https://www.linkedin.com/in/marek-golan/) |
 | Piotr Pienkowski                                | App Design                         | [LinkedIn](https://www.linkedin.com/in/piotrpienkowski/) |
 | Elina Schastnaya                                | App UI/UX                          | [LinkedIn](https://www.linkedin.com/in/eschastnaya/) |
-|                                                 |                                    |                                                   |
 | **Data Tech Framework**                         |                                    |                                                   |
 | Alexey Kulik                                    | CTO, ZK Data Architect            | [LinkedIn](https://www.linkedin.com/in/alexeykulik/) |
 | Viktor Shpak                                    | Token Architect                   | [LinkedIn](https://www.linkedin.com/in/vshpak/) |
 | Farrukh Turgunov                                | Algorithm, Code/Math              | [LinkedIn](https://www.linkedin.com/in/farrukhturgunov/) |
-|                                                 |                                    |                                                   |
 | **Depin Arch and Tech**                         |                                    |                                                   |
 | Wiktor Krzeszewski                              |DeepTech                                    | [LinkedIn](https://www.linkedin.com/in/wiktorkrzeszewski/) |
 | Nematjon Yusubjonov                              | Data Math                          | [LinkedIn](https://www.linkedin.com/in/nematjon-yusubjonov/) |
 | Klaudia Korycka                                 | Data Cloud                         | [LinkedIn](https://www.linkedin.com/in/klaudia-korycka-95a503222/) |
-|                                                 |                                    |                                                   |
-| **Socials and Marketing**                       |                                    |                                                   |
-| DEX Laboratory                                  | DEX                                | [X.com](https://twitter.com/DEXLaboratory4) |
-| EDU RIO                                         | EDU RIO                            | [LinkedIn](https://www.linkedin.com/in/eduriom3/) |
-| GEM                                             | GEM                                | [X.com](https://twitter.com/gemcatcher7) |
-| Ab                                              | Moderator AB                       | [@moderator_AB](https://twitter.com/moderator_AB) |
-
 
 
 ## Advisors
 
 | Name             | Social Link                                     |
 |------------------|-------------------------------------------------|
-| PIOTR            | [LinkedIn](https://www.linkedin.com/in/piotrlukasinski/) |
-| HESLIN KIM       | [LinkedIn](https://www.linkedin.com/in/heslinkim/) |
-| DAVID HAM        | [LinkedIn](https://www.linkedin.com/in/david-h-3a241219/) |
-| JAMES K JEONG    | [LinkedIn](https://www.linkedin.com/in/james-k-jeong-556a2717/) |
-| PAWEL            | [X.com](https://twitter.com/PawelSynapse)    |
-| DR PERCY GEICKE  | [LinkedIn](https://www.linkedin.com/in/percy-geicke-21204313/) |
-| RALF             | [LinkedIn](https://www.linkedin.com/in/ralfglabischnig/) |
-| EVAN LUTHRA      | [X.com](https://twitter.com/EvanLuthra)      |
-| PAWEL SOBKOW     | [LinkedIn](https://www.linkedin.com/in/pawel-sobkow-114316/) |
-| MENDE            | [X.com](https://twitter.com/MendeMatthias)   |
-| EX HUMAN         | [X.com](https://twitter.com/3xhuman)         |
-| KATHERINA ARNOLD ROKITA | [LinkedIn](https://www.linkedin.com/in/katharina-arnold-rokita/) |
-| HOLD             | [LinkedIn](https://www.linkedin.com/in/thomashessler/) |
-| ESG              | [LinkedIn](https://www.linkedin.com/in/gartenbach/) |
-| MARK             | [LinkedIn](https://www.linkedin.com/in/natischlesinger/) |
-| GREGORY          | [LinkedIn](https://www.linkedin.com/in/gregorycrous/) |
-| IAROS BELKIN     | [LinkedIn](https://www.linkedin.com/in/ybelkin/) |
+| Helsin Kim       | [LinkedIn](https://www.linkedin.com/in/heslinkim/) |
+| David Ham        | [LinkedIn](https://www.linkedin.com/in/david-h-3a241219/) |
+| James K Jeong    | [LinkedIn](https://www.linkedin.com/in/james-k-jeong-556a2717/) |
+| Ralf Glabischnig            | [LinkedIn](https://www.linkedin.com/in/ralfglabischnig/) |
+| Evan Luthra      | [X.com](https://twitter.com/EvanLuthra)      |
+| Matthias Mende            | [X.com](https://twitter.com/MendeMatthias)   |
 
+
+
+![](src/headers/people_welcome.png)
+
+** Anyone is welcomed, not matter of:**
+- Age
+- Gender reassignment
+- Being married or in a civil partnership
+- Being pregnant or on maternity leave
+- Disability
+- Race including colour, nationality, ethnic or national origin
+- Religion or belief
+- Sex
+- Sexual orientation

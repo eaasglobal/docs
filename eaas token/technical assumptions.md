@@ -1,20 +1,20 @@
 ---
 icon: dot
-label: Technical assumptions of EAAS token
-tags: [token, eaas-token, exchange]
+label: Technical assumptions of $DEPIN token
+tags: [token, $DEPIN, exchange]
 ---
 
-$Depin Token is a **validator**, which will be the main premise in *building a framework* that will allow *cross chain transactions* between blockchains. Depin validates, meaning there is a *container in every transaction*, so 99% of the value of the funds transfer in the transaction is **another token** e.g., coming from Avalanche, Polygon, Solana’s, Everscale blockchain ecosystems. 
+$DEPIN Token is a **validator**, which will be the main premise in *building a framework* that will allow *cross chain transactions* between blockchains. $DEPIN validates, meaning there is a *container in every transaction*, so 99% of the value of the funds transfer in the transaction is **another token**, e.g. coming from Avalanche, Polygon, Solana’s, Everscale blockchain ecosystems. 
 
-**The transaction will not happen without the $Depin Token**, which constitutes 1% of the transfer value of the transaction. $Deping is a green Energy *confirmer*. **Without it, it is not possible** to read the transaction. For the world of blockchain technology we give for adoption and scale, which is not easy to achieve being nested only in one ecosystem.
+**The transaction will not happen without the $DEPIN Token**, which constitutes 1% of the transfer value of the transaction. $DEPIN is a green Energy *confirmer*. **Without it, it is not possible** to read the transaction. For the world of blockchain technology we give for adoption and scale, which is not easy to achieve being nested only in one ecosystem.
 
 ![](/src/headers/technical_assumptions_of_eaas.png)
 
 ---
 
-## Depin as validator of cross chain transactions between blockchains
+## $DEPIN as validator of cross chain transactions between blockchains
 
-Before there was *the so-called ERC20 standard* (on which we decided to build $Depin Token) proposed by Vitalic Buterin together with Fabian Vogelsteller, it was Vitalic Buterin who in 2015 *combined blockchain technology* with *a virtual machine* to create **Ethereum**. The **first programmable blockchain** allowed the creation of code executed by a decentralized network of smart contracts.
+Before there was *the so-called ERC20 standard* (on which we decided to build $DEPIN Token) proposed by Vitalic Buterin together with Fabian Vogelsteller, it was Vitalic Buterin who in 2015 *combined blockchain technology* with *a virtual machine* to create **Ethereum**. The **first programmable blockchain** allowed the creation of code executed by a decentralized network of smart contracts.
  
 Starting with the ERC20 standard enables the creation of dAap: decentralized applications using this standard from wallets to be *decentralized exchanges*.
  
