@@ -33,7 +33,7 @@ Additionally:
 - **EU Auctioning Regulation**(7), establishing rules for participation, trading and participation in EU ETS
 - **The EU- China joint statement** on the Climate Change(8), 
 - **Korean Emission Trading Scheme (K-ETS)** (9)
-- UMOWA : https://www.sec.gov/Archives/edgar/data/1346980/000119312511080561/dex1031.htm
+- [CARBON DIOXIDE PURCHASE AND SALE AGREEMENT](https://www.sec.gov/Archives/edgar/data/1346980/000119312511080561/dex1031.htm)
 
 
 

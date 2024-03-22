@@ -11,20 +11,20 @@ We believe that real blockchain adoption and tokenomics are aligned towards the 
 
 **Metric**   | **Value**
 --- | ---
-Total Supply: | 1,000,000,000 tokens
+Total Supply (TS): | 1,000,000,000
 Fully Diluted Valuation estimate (FDV) | $30,000,000
 Estimated IMC without Liquidity | $1,500,000
 Estimated (IMC) with Liquidity | $2,850,000
 Estimated Total Liquidity | $2,700,000
-Initial Circulating Supply (CS) | 95,000,000 tokens
-Initial Circulating Supply (CS) as a Percentage of Total Supply (TS) | 9.5%
+Initial Circulating Supply (CS) | 95,000,000
+Initial (CS) as a Percentage of (TS) | 9.5%
 Hard Cap | $3,375,000
 
 
 
 ## Token Allocation and Vesting Schedule:
 
-The token allocation of $Depin is designed to ensure equitable distribution and strategic alignment with project objectives.
+The token allocation of $DEPIN is designed to ensure equitable distribution and strategic alignment with project objectives.
 
 
 | Pool             | %Allocation | Amount      | % on TGE | Cliff | Vesting |
@@ -68,12 +68,12 @@ Token allocations and vesting schedules promote long-term project success and pr
 ## Initial Bond Offering/Liquidity Bootstrapping Pools, or IBO/LBPs: 
 
 
-In collaboration with Fjord Foundry, $Depin develops strategic liquidity bootstrapping programs to strengthen its position in the market, promote token circulation, and guarantee stakeholder distribution. 
+In collaboration with Fjord Foundry, $DEPIN develops strategic liquidity bootstrapping programs to strengthen its position in the market, promote token circulation, and guarantee stakeholder distribution. 
 
 ## To sum up:
 
 
-The primary objective of the $Depin token is to enhance token liquidity, instill trust in investors, and foster sustainable expansion within the carbon market by means of efficient financial management, our groundbreaking technology, and resource allocation. It merges technological advancements with real-world actions, encouraging all individuals and organizations contribute to our sustainable future. 
+The primary objective of the $DEPIN token is to enhance token liquidity, instill trust in investors, and foster sustainable expansion within the carbon market by means of efficient financial management, our groundbreaking technology, and resource allocation. It merges technological advancements with real-world actions, encouraging all individuals and organizations contribute to our sustainable future. 
 
 
 <!-- 

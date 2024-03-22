@@ -5,16 +5,14 @@ expanded: true
 tags: [token, eaas-token, benefits, earn]
 ---
 
-# $Depin Token
+# $DEPIN Token
 
-![](/src/headers/eaas-token.jpg)
-
-Information about our EAAS Token. General Information.
+Information about our $DEPIN Token. General Information.
 
 === Token name:
-$Depin
+$DEPIN
 === Ticker:
-Depin
+DEPIN
 === Blockchain
 Binance Smart Chain / Arbitrum (ERC-20) 
 === Fungible Token Contract:
@@ -30,7 +28,7 @@ Check https://eaas.global/
 ===
 
 :::information
-$Depin TOKEN aims to become a CO2 credit for b2b and b2c users by complying with EU Sustainability regulations and the Paris Treaty.
+$DEOIN TOKEN aims to become a CO2 credit for b2b and b2c users by complying with EU Sustainability regulations and the Paris Treaty.
 :::
 
 # Real World Asset (RWA) Utility:
@@ -39,13 +37,13 @@ Validation and use of carbon credits have undergone a paradigm shift thanks to t
 
 ## Advantages and Features: Transparency and Legal 
 
-1. $Depin coin is in compliance with legal norms of the European Union
+1. $DEPIN is in compliance with legal norms of the European Union
 
 2. is featured with neural network prediction rules, zero-knowledge proof (ZKP) algorithms, and other mechanisms that promote transparency, security and accountability
 
-3. Exchange and Interoperability: based on user's location, they can exchange CO2 credits collected into $Depin token equivalent to local Price of CO2 credit for example, if user's geolocation is in Korea and CO2 credit Price is $10 per ton, and accrued 1 ton of CO2 credit : user will get equivalent $Depin token woth of $10. 
+3. Exchange and Interoperability: based on user's location, they can exchange CO2 credits collected into equivalent amount of $DEPIN token based on  local Price of CO2 credit. For example, if user's geolocation is in Korea and CO2 credit Price is $10 per ton, and user accrued 1 ton of CO2 credit, user will get equivalent of $DEPIN token woth of $10. 
 
-4. The $Depin token encourages users to take appropriate and concrete steps toward sustainability by validating consumer actions to carbon neutrality, green energy production, and ESG standards.
+4. The $DEPIN token encourages users to take appropriate and concrete steps toward sustainability by validating consumer actions to carbon neutrality, green energy production, and ESG standards.
 
-5. Carton tons are predicted to be worth as precious metals since they are hard-proof assets. as the world is taking steps toward sustainability and 0 Carbon amission, the $Depin Token becomes a deflationary asset that will eventually increase in value.
+5. Carton tons are predicted to be worth as precious metals since they are hard-proof assets. as the world is taking steps toward sustainability and 0 Carbon amission, the $DEPIN Token becomes a deflationary asset that will eventually increase in value.
 

@@ -5,7 +5,7 @@ order: 4000
 tags: [why, exchange]
 ---
 
-![](src/headers/eaas-framework.jpg)
+
 
 In today's world, where environmental concerns are paramount, EAAS introduces an innovative solution that intertwines technology, sustainability, and financial empowerment.
 
@@ -20,7 +20,7 @@ With our DePIN Hardware and Native app, users are actively earning CO2 credits w
 
 Within Our Platform, these accrued CO2 credits are then transformed into CO2 Certificates. These credits are converted into FIAT money via EAAS.GLOBAL in order to fund the advancement of projects and the distribution of tokens. 
 
-EAAS provides liquidity and circulation by enabling the repurchase of tokens on both centralized (CEX) and decentralized (DEX) exchanges. Users can safely trade their accumulated CO2 credits for comparable $Depin Tokens without jeopardizing their privacy by using our innovative Zero-Knowledge Proof (ZKP) technology. Because these exchanges are customized based on the user's geolocation, fair pricing according to the CO2 credit value in that particular area is guaranteed. 
+EAAS provides liquidity and circulation by enabling the repurchase of tokens on both centralized (CEX) and decentralized (DEX) exchanges. Users can safely trade their accumulated CO2 credits for comparable $DEPIN Tokens without jeopardizing their privacy by using our innovative Zero-Knowledge Proof (ZKP) technology. Because these exchanges are customized based on the user's geolocation, fair pricing according to the CO2 credit value in that particular area is guaranteed. 
 
 ---
 ![](/src/headers/8_useraquisition.png)

@@ -17,7 +17,7 @@ We aim to unite and connect all the members of the energy production and consump
 
 ## Introduction
 
-We combine traditional technologies with *solutions of the future.* We mix IoT, blockchain, and NFT with hardware in the form of an EV charger, the prototype you can see on the film on our YouTube. But we are not going to stop there. We are constantly looking for both **new technologies** and the **synergy effect between them.**
+We combine traditional technologies with *solutions of the future.* We mix IoT, blockchain, and with hardware in the form of an EV charger. But we are not going to stop there. We are constantly looking for both **new technologies** and the **synergy effect between them.**
 
 :::information
 The green energy market is known for high interest among investors.
@@ -43,7 +43,7 @@ EAAS Token makes it possible to **recognize** the origin of energy, validate it 
 
 ---
 
-## Depin Token in our solution
+## $DEPIN Token in our solution:
 
 1. is an **investment** vehicle,
 2. a cryptocurrency value that **certifies green energy** production as measured by the DePIN Hardware and native app,

@@ -7,8 +7,8 @@ icon: move-to-end
 
 ## What is EAAS?
 
-EAAS offers ESG validation, carbon credits, and green energy solutions accessible to everyone.
-Users utilize the $EAAS RWA token for transactions, while merchants measure CO2 exchange.
+EAAS.GLOBAL offers ESG validation, carbon credits, and green energy solutions accessible to everyone.
+Users utilize the $DEPIN for transactions, while merchants measure CO2 exchange.
 Taking action leads to worldwide CO2 offset.
 
 ## How Does It Work?
