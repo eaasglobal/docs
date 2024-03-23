@@ -32,7 +32,7 @@ Assign CO2 scoring values to each action category based on user tiers:
 |-------------|----------------|--------------------|--------------------|
 | ESG         | 5 KG           | 10 KG              | 10 KG              |
 | Carbon      | 7 KG           | 14 KG              | 14 KG              |
-| Depin       | 0              | 0                  | 10 KG per 100 Kwat|
+| DePIN       | 0              | 0                  | 10 KG per 100 Kwat|
 | Behavioral  | 7 KG           | 14 KG              | 14 KG              |
 | CC          | 5 KG           | 5 KG + 5% of refs  | 5 KG + 5% of refs  |
 
@@ -57,7 +57,7 @@ Assign CO2 scoring values to each action category based on user tiers:
 
 **Where:**
 - Ri: Reward in $DEPIN tokens for user i
-- CO2_credit_price(GEO(: Price of CO2 credit at the user's geolocation (per ton)
+- CO2_credit_price(GEO): Price of CO2 credit at the user's geolocation (per ton)
 - $DEPIN_token_price: Price of $DEPIN token in Blockchain
 
 
