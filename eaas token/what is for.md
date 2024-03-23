@@ -7,15 +7,15 @@ tags: [exchange, token, eaas-token, earn, swap]
 At the beginning the $DEPIN token complies with the ERC-20 standard and can be stored on *any wallet* that supports this standard, such as **Binance Chain Wallet, MetaMask, TrustWallet, or our platform**.
  
 
-The framework enables $Depin Token some utilities and some use cases like:
+The framework enables $DEPIN Token some utilities and some use cases like:
  
 1. Buying and selling assets on cross chain EAAS Framework,
 2. Staking
 3. Governance and voting also for government users.
  
-**Depin token explorer**
+**DEPIN token explorer**
  
-$Depin Token explorer is a **porting of BscScan** a public and transparent Binance blockchain explorer to the energy world. It allows us to *present stored decentralized information* about the amount of produced, traded green energy at an individual producer stored on the blockchain. It allows you to **view the transactions** that have taken place *recently* in terms of each decentralized information
+$DEPIN Token explorer is a **porting of BscScan** a public and transparent Binance blockchain explorer to the energy world. It allows us to *present stored decentralized information* about the amount of produced, traded green energy at an individual producer stored on the blockchain. It allows you to **view the transactions** that have taken place *recently* in terms of each decentralized information
 
 ![](/src/headers/blockchain_to_green_energy.png)
 
@@ -35,7 +35,7 @@ Having a Token enables you to use decentralized software. **$DEPIN Token** is a 
 
 ---
 
-## What is the Depin Token used for?
+## What is the $DEPIN Token used for?
 
 Token functions enables in the EAAS framework operations solution. These include **measuring green energy** production or measuring the flow of green energy in a framework.
 

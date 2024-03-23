@@ -78,18 +78,14 @@ Documents listed below are undergoing a thorough investigation in order to deter
      
    
 ## References: 
-1. ADOPTION OF THE PARIS AGREEMENT - Paris Agreement text English https://unfccc.int/sites/default/files/english_paris_agreement.pdf
-2. Revision of the EU ETS Directive, april 2023 ; DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Directive 2003/87/EC establishing a system for greenhouse gas emission allowance trading within the Union and Decision (EU) 2015/1814 concerning the establishment and operation of a market stability reserve for the Union greenhouse gas emission trading system
-https://data.consilium.europa.eu/doc/document/PE-9-2023-INIT/en/pdf
-3. https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/ets-2-buildings-road-transport-and-additional-sectors_en
-4. REGULATION (EU) 2023/956 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 10 May 2023 establishing a carbon border adjustment mechanism https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0956
-5. REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) 2018/841 as regards the scope, simplifying the reporting and compliance rules, and setting out the targets of the Member States for 2030, and Regulation (EU) 2018/1999 as regards improvement in monitoring, reporting, tracking of progress and review
-https://eur-lex.europa.eu/resource.html?uri=cellar:ea67fbc9-e4ec-11eb-a1a5-01aa75ed71a1.0001.02/DOC_1&format=PDF
-6. REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) 2018/841 as regards the scope, simplifying the reporting and compliance rules, and setting out the targets of the Member States for 2030, and Regulation (EU) 2018/1999 as regards improvement in monitoring, reporting, tracking of progress and review
-https://data.consilium.europa.eu/doc/document/PE-11-2023-INIT/en/pdf
-7. Commission Delegated Regulation (EU) 2023/2830 of 17 October 2023 supplementing Directive 2003/87/EC of the European Parliament and of the Council by laying down rules on the timing, administration and other aspects of auctioning of greenhouse gas emission allowances
-https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302830
-8. EU-China Joint Statement on Climate Change 29 June 2015, https://www.consilium.europa.eu/media/23733/150629-eu-china-climate-statement-doc.pdf
+1. [ADOPTION OF THE PARIS AGREEMENT](https://unfccc.int/sites/default/files/english_paris_agreement.pdf)
+2. [Revision of the EU ETS Directive, april 2023](https://data.consilium.europa.eu/doc/document/PE-9-2023-INIT/en/pdf)
+3. [ETS 2: buildings, road transport and additional sectors](https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/ets-2-buildings-road-transport-and-additional-sectors_en)
+4. [REGULATION (EU) 2023/956 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 10 May 2023 establishing a carbon border adjustment mechanism]( https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0956)
+5. [REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) 2018/841](https://eur-lex.europa.eu/resource.html?uri=cellar:ea67fbc9-e4ec-11eb-a1a5-01aa75ed71a1.0001.02/DOC_1&format=PDF)
+6. [REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) 2018/841 as regards the scope, simplifying the reporting and compliance rules, and setting out the targets of the Member States for 2030, and Regulation (EU) 2018/1999 as regards improvement in monitoring, reporting, tracking of progress and review](https://data.consilium.europa.eu/doc/document/PE-11-2023-INIT/en/pdf)
+7. [Commission Delegated Regulation (EU) 2023/2830 of 17 October 2023 supplementing Directive 2003/87/EC of the European Parliament and of the Council by laying down rules on the timing, administration and other aspects of auctioning of greenhouse gas emission allowances](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302830)
+8. [EU-China Joint Statement on Climate Change 29 June 2015](https://www.consilium.europa.eu/media/23733/150629-eu-china-climate-statement-doc.pdf)
 9. Carbon Neutral Framework Act
 Enforcement Decree of the Act on the Allocation and Trading of Greenhouse Gas Emissions Allowances 
 Act on the Allocation and Trading of Greenhouse Gas Emissions Allowances 

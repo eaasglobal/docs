@@ -11,7 +11,7 @@ The Exchange for CO2 Credits, which makes carbon offsetting easier, and location
 
 Users that engage in sustainable activities will receive CO2 credits, which can be converted into our native currency, $DEPIN, at a location-based CO2 pricing. The software encourages community donations and ESG compliance procedures to move the group toward sustainable business practices and a more environmentally friendly future. 
 
-By giving users effective environmental assets management toolsᅳwhich are essential for moving towards a sustainable futureᅳthe EAAS App promotes responsible use of natural resources. 
+By giving users effective environmental assets management toolsᅳwhich are essential for moving towards a sustainable futureᅳthe EAAS Smart App promotes responsible use of natural resources. 
 
 
 
