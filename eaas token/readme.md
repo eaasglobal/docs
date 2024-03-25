@@ -28,7 +28,7 @@ Check https://eaas.global/
 ===
 
 :::information
-$DEOIN TOKEN aims to become a CO2 credit for b2b and b2c users by complying with EU Sustainability regulations and the Paris Treaty.
+$DEPIN TOKEN aims to become a CO2 credit for b2b and b2c users by complying with EU Sustainability regulations and the Paris Treaty.
 :::
 
 # Real World Asset (RWA) Utility:
