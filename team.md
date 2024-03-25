@@ -34,14 +34,28 @@ Gratefully, we can rely on an extensive network of friends and partners whose #w
 
 ## Advisors
 
-| Name             | Social Link                                     |
-|------------------|-------------------------------------------------|
-| Helsin Kim       | [LinkedIn](https://www.linkedin.com/in/heslinkim/) |
-| David Ham        | [LinkedIn](https://www.linkedin.com/in/david-h-3a241219/) |
-| James K Jeong    | [LinkedIn](https://www.linkedin.com/in/james-k-jeong-556a2717/) |
-| Ralf Glabischnig            | [LinkedIn](https://www.linkedin.com/in/ralfglabischnig/) |
-| Evan Luthra      | [X.com](https://twitter.com/EvanLuthra)      |
-| Matthias Mende            | [X.com](https://twitter.com/MendeMatthias)   |
+## Advisors
+
+| Name                    | Social Link                                            |
+|-------------------------|--------------------------------------------------------|
+| Helsin Kim              | [LinkedIn](https://www.linkedin.com/in/heslinkim/)    |
+| David Ham               | [LinkedIn](https://www.linkedin.com/in/david-h-3a241219/) |
+| James K Jeong           | [LinkedIn](https://www.linkedin.com/in/james-k-jeong-556a2717/) |
+| Ralf Glabischnig        | [LinkedIn](https://www.linkedin.com/in/ralfglabischnig/) |
+| Evan Luthra             | [X.com](https://twitter.com/EvanLuthra)               |
+| Matthias Mende          | [X.com](https://twitter.com/MendeMatthias)            |
+| Piotr Lukasinski        | [LinkedIn](https://www.linkedin.com/in/piotrlukasinski) |
+| Paweł Łaskarzewski      | [Twitter](https://twitter.com/PawelSynapse)           |
+| Percy Geicke            | [LinkedIn](https://www.linkedin.com/in/percy-geicke-21204313/) |
+| Pawel Sobkow            | [LinkedIn](https://www.linkedin.com/in/pawel-sobkow-114316/) |
+| KATHERINA ARNOLD ROKITA | [LinkedIn](https://www.linkedin.com/in/katharina-arnold-rokita/) |
+| EX HUMAN                | [Twitter](https://twitter.com/3xhuman)                |
+| Thomas Hessler          | [LinkedIn](https://www.linkedin.com/in/thomashessler/) |
+| Sascha Gartenbach       | [LinkedIn](https://www.linkedin.com/in/gartenbach/)   |
+| Mark N. Schlesinger     | [LinkedIn](https://www.linkedin.com/in/natischlesinger/) |
+| Gregory Crous           | [LinkedIn](https://www.linkedin.com/in/natischlesinger/) |
+| Iaros Belkin            | [LinkedIn](https://www.linkedin.com/in/ybelkin/)      |
+
 
 
 

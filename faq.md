@@ -100,3 +100,38 @@ These regulations include emissions caps and trading schemes to reduce CO2 emiss
 === Why is CO2 offsetting important according to EAAS?
 At EAAS - the company whose main goal is to pursue sustainable development we believe that projects related to reducing CO2 emissions, projects related to carbon capture, and carbon utilization are indispensable elements of the pursuit of sustainable development. Our app will provide its users - be it private or corporate - a means of decreasing their carbon footprint.
 ===
+## DePIN
+=== What is DePIN?
+DePIN (Decentralized Physical Interface Network) is a conceptual framework for interactions between physical devices and digital platforms through decentralized technologies.
+=== What is DePIN within the Eaas ecosystem?
+DePIN are advanced devices specifically designed to measure the output from renewable energy sources like solar panels and wind turbines. They seamlessly integrate with the Eaas app, ensuring that data regarding energy consumption, production, and CO2 reduction is accurately captured and securely transmitted to the Eaas platform for analysis, scoring, and rewarding.
+=== How does DePIN benefit users?
+Eaas DePIN connects directly to renewable energy installations, continuously monitoring their output and efficiency. The gathered data is then transmitted to the Eaas platform, which calculates the amount of CO2 reduced by the user’s renewable energy production. 
+
+DePIN provides real-time data that comes directly from the device and is impossible to manipulate. This approach makes DePIN data more valuable for accurate CO2 offset calculations, and DePIN users get more rewards being Tier 1 users (see Scoring). It not only incentivizes further adoption of renewable energy but also provides users with an easy way to capture and quantify the impact of their sustainability efforts without manual actions
+=== Are DePIN suitable for all renewable energy producers and consumers?
+Yes, DePIN devices are designed to be universally compatible with a wide array of renewable energy systems, from residential solar panel setups to commercial wind turbines. This ensures that regardless of the scale or type of renewable energy source, users can benefit from precise data collection and rewards. Eaas inclusive approach aims to encourage a diverse group of individuals and businesses to go renewable energy, driving the positive environmental impact.
+
+Through the deployment of DePIN devices, we are paving the way for a future where renewable energy is not only encouraged but also rewarded, making a sustainable lifestyle accessible and attractive to a broader audience.
+===
+## $DEPIN Token
+=== What is the purpose of $DEPIN token?
+The $DEPIN Token serves multiple functions: rewarding users and verifying their actions. When users engage in activities that contribute to a greener planet, such as reducing energy consumption or using renewable resources, these actions are securely logged and evaluated by the Eaas scoring system. The authenticity of each action and its CO2 offset is confirmed within a legal framework, ensuring adherence to the latest environmental standards and regulations. This process rewards users with $DEPIN tokens and also verifies their contributions to fighting climate change.
+=== How does the $DEPIN token work?
+The $DEPIN token is a Real-World Asset (RWA),and it encapsulates verified eco-friendly activities and their respective CO2 offsets within a legal framework. However, it’s important to note that while $DEPIN tokens represent the impact of such actions, they are not direct equivalents of CO2 credits, because they’re designed to operate within a broader framework of incentives and legal compliance. 
+
+With the $DEPIN token, we are pioneering a future where greener actions are not only recognized but are also economically rewarded, encouraging more individuals and corporations to take part in our collective journey towards a sustainable planet.
+=== What are the benefits of the $DEPIN?
+The $DEPIN token offers several key advantages:
+1.	Reward: Users receive tangible rewards for their actions, encouraging more sustainable behavior.
+2.	Verification: The token serves as proof that users’ actions have been verified and scored according to environmental standards, ensuring authenticity and compliance.
+3.	Liquidity: Traditional CO2 markets place barriers that exclude individuals and small companies from participating due to stringent eligibility criteria. The $DEPIN token democratizes access to environmental asset trading, transforming previously illiquid assets into liquid opportunities. This means users can financially benefit from their actions, offering additional liquidity and earnings from their sustainability efforts.
+===
+## Zero-Knowledge Proof
+=== What is Zero-Knowledge Proof (ZKP), and how is it used in the Eaas ecosystem?
+Zero-Knowledge Proof is a cryptographic protocol that allows one party (the prover) to prove to another party (the verifier) that a statement is true, without revealing any information beyond the validity of the statement itself. 
+Within the Eaas ecosystem, ZKP is utilized to verify that users have engaged in sustainable activities and those activities result in CO2 reduction. Eaas assesses the environmental impact of user actions, and allows to create cryptographic proof of actions and legally compliant scoring. This proof can then be verified by third parties, such as smart contracts, to distribute $DEPIN tokens, ensuring the process is secure, private, and efficient.
+=== How does ZKP benefit users?
+ZKP benefits users by protecting their privacy and data security, ensuring that their participation remains confidential. For the overall sustainability mission of Eaas, ZKP adds a layer of credibility and trust to the reward system. It ensures that rewards for sustainable actions are accurately and fairly distributed, fostering a transparent ecosystem where users are motivated to contribute more actively towards environmental sustainability.
+=== Can ZKP be used with third-party verifiers other than smart contracts?
+Yes, ZKP is versatile and can be integrated with a variety of third-party verifiers beyond smart contracts. While smart contracts are a common choice for automating the verification of proofs, ZKP can also work with traditional verification entities or other decentralized applications that aim to validate user actions. This flexibility allows Eaas to collaborate with multiple partners and platforms, expanding the ecosystem and enhancing opportunities for users to be rewarded for their sustainable contributions.

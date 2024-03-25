@@ -1,21 +1,14 @@
 ---
 icon: dot
-order: 350
+order: 300
 label: Benefits for investors
 tags: [benefits, invest, earn, swap]
 ---
 
-$DEPIN Token also gives **benefits** for investors in the EAAS’s framework, among them:
- 
-1. **Staking Utility** – where $DEPIN stakers will *earn passive income* not only from everyday EAAS rewards but also from weekly airdrops coming from our multi-asset staking feature.
-
-2. **Governance** – when $DEPIN stakers will have an *influence on the crucial aspects* of platform development such as staking yield, buyback & burn percentage etc.
- 
-3. **Deflationary Tokenomics** – then $DEPIN token holders will enjoy *decreasing inflation model* additionally boosted by buyback & burning mechanism, fueled by transaction fees.
-
-4. **App Users are incentivized** to share their actions to the community
-5. Inside mechanics drive **supply and demand**
-6.  **Virtuous cycle** is perpetual, sustaining the projects’ continued growth.
+The $DEPIN token offers several key benefits:
+1.	Reward: Users receive tangible rewards for their actions, encouraging more sustainable behavior.
+2.	Verification: The token serves as proof that users’ actions have been verified and scored according to environmental standards, ensuring authenticity and compliance.
+3.	Liquidity: Traditional CO2 markets place barriers that exclude individuals and small companies from participating due to stringent eligibility criteria. The $DEPIN token democratizes access to environmental asset trading, transforming previously illiquid assets into liquid opportunities. This means users can financially benefit from their actions, offering additional liquidity and earnings from their sustainability efforts.
 
 ![](/src/headers/benefits_for_investors.png)
 
