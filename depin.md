@@ -25,18 +25,18 @@ In addition to the revolutionary DePIN hardware and mobile app ecosystem, EAAS G
 
 **Earnings:**
 
- • Users can earn rewards within the app ecosystem through various activities, including DEPIN data airdrops, community tasks, and arbitrage opportunities for both users and businesses.  
- • New actions bidding and gaining compensations incentivize proactive engagement with the platform.  
- • Special rewards and bonuses are available based on user location, fostering localized participation and impact.
+ - Users can earn rewards within the app ecosystem through various activities, including DEPIN data airdrops, community tasks, and arbitrage opportunities for both users and businesses.  
+ - New actions bidding and gaining compensations incentivize proactive engagement with the platform.  
+ -  Special rewards and bonuses are available based on user location, fostering localized participation and impact.
 
 **Spending:**  
- • The $DEPIN token enables users to purchase CO2 credits, participate in the ESG marketplace, and engage in EAAS buyback programs.   
- • Users can convert CO2 credits to fiat currency directly within the app or engage in peer-to-peer or peer-to-business sales.  
- • Location-based bonuses and team-up challenges further enhance spending opportunities, encouraging collaboration and community involvement.
+ -  The $DEPIN token enables users to purchase CO2 credits, participate in the ESG marketplace, and engage in EAAS buyback programs.   
+ -  Users can convert CO2 credits to fiat currency directly within the app or engage in peer-to-peer or peer-to-business sales.  
+ -  Location-based bonuses and team-up challenges further enhance spending opportunities, encouraging collaboration and community involvement.
 
 **Staking:**  
- • Users can stake their $DEPIN tokens within the app, earning a competitive annual percentage rate of 14% for keeping their CO2 credits within the ecosystem.  
- • Businesses can utilize staking as a means of facilitating reporting and compliance with ESG standards directly within the app, streamlining processes and enhancing transparency.  
+ -  Users can stake their $DEPIN tokens within the app, earning a competitive annual percentage rate of 14% for keeping their CO2 credits within the ecosystem.  
+ -  Businesses can utilize staking as a means of facilitating reporting and compliance with ESG standards directly within the app, streamlining processes and enhancing transparency.  
 
 ## Unleashing the Value of Green Energy
 
