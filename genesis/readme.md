@@ -7,6 +7,7 @@ tags: [why, benefits]
 
 # Genesis
 
-$DEPIN is a token that is a **digital certificate** – guarantee of origin – **for energy**. The validity of this certificate is validated on the blockchain and *can be used, stored, or exchanged* on a platform created for this purpose. The platform will enable the inclusion of all **energy market** participants in the unified system, i.e., business, individual, institutional players. The system will be *accessible, beneficial, and transparent* for all.
- 
-The most important thing is that **EAAS.GLOBAL connects, not divides**. We focus on cooperation between entities *focused on the clean energy market* and not on the level of startup capital competition. This approach comes from both - my business experience and the belief that only by joining forces together great goals can be achieved - and this is our ambition. Said [Greg Krzeszowski](https://www.linkedin.com/in/grzegorzkrzeszowski) [[!badge size="xs" text="CEO and Founder of EAAS Global"]](https://www.linkedin.com/in/grzegorzkrzeszowski)
+$EAAS represents a token functioning as a digital certification that serves a guarantee of origin for energy. The authenticity of this certification undergoes verification via blockchain technology and can be utilized, preserved, or exchanged within a designated platform. This platform is designed to accommodate all participants in the energy market, including businesses, individuals, and institutions. It aims to provide accessibility, advantages, and transparency to all parties involved.
+
+The essence of eaas.global lies in our ability to foster unity rather than division. Our goal is to collaborate with all stakeholders in the renewable energy sector, prioritizing cooperation over monetary competition. I firmly believe in the power of teamwork and am driven by the conviction that only through a collective effort can we accomplish remarkable victories; conveyed
+ [Greg Krzeszowski](https://www.linkedin.com/in/grzegorzkrzeszowski) [[!badge size="xs" text="CEO and Founder of EAAS Global"]](https://www.linkedin.com/in/grzegorzkrzeszowski)

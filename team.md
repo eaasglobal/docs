@@ -5,7 +5,7 @@ order: 1000
 tags: [fundaments]
 ---
 
-Few months of dedicated work by our brilliant team, we are happy to announce stealth team behind growth behind $DEPIN Token, EAAS Framework and DePIN hardware.
+Few months of dedicated work by our brilliant team, we are happy to announce stealth team behind growth behind $EAAS Token, EAAS Framework and DePIN hardware.
 Gratefully, we can rely on an extensive network of friends and partners whose #web3 carbon stacks and climate finance services support our cause. 
 
 ![](/src/headers/14_team.png)

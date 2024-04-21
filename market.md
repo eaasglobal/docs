@@ -10,7 +10,7 @@ order: 4500
 ![](/src/headers/4_Pain_Solution.png)
 
 ::: information
-*EAAS.GLOBAL helps you to monetize your carbon footprint data in exchange for CO2 credits*
+*eaas.global helps you to monetize your carbon footprint data in exchange for CO2 credits*
 :::
 
 ![](/src/headers/6_businessmodel.png)

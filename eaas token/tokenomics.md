@@ -24,7 +24,7 @@ Hard Cap | $3,375,000
 
 ## Token Allocation and Vesting Schedule:
 
-The token allocation of $DEPIN is designed to ensure equitable distribution and strategic alignment with project objectives.
+The token allocation of $EAAS is designed to ensure equitable distribution and strategic alignment with project objectives.
 
 
 | Pool             | %Allocation | Amount      | % on TGE | Cliff | Vesting |
@@ -68,12 +68,12 @@ Token allocations and vesting schedules promote long-term project success and pr
 ## Initial Bond Offering/Liquidity Bootstrapping Pools, or IBO/LBPs: 
 
 
-In collaboration with Fjord Foundry, $DEPIN develops strategic liquidity bootstrapping programs to strengthen its position in the market, promote token circulation, and guarantee stakeholder distribution. 
+In collaboration with Fjord Foundry, eaas.global develops strategic liquidity bootstrapping programs to strengthen its position in the market, promote token circulation, and guarantee stakeholder distribution. 
 
 ## To sum up:
 
 
-The primary objective of the $DEPIN token is to enhance token liquidity, instill trust in investors, and foster sustainable expansion within the carbon market by means of efficient financial management, our groundbreaking technology, and resource allocation. It merges technological advancements with real-world actions, encouraging all individuals and organizations contribute to our sustainable future. 
+The primary objective of the $EAAS token is to enhance token liquidity, instill trust in investors, and foster sustainable expansion within the carbon market by means of efficient financial management, our groundbreaking technology, and resource allocation. It merges technological advancements with real-world actions, encouraging all individuals and organizations contribute to our sustainable future. 
 
 
 <!-- 
