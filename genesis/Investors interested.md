@@ -1,5 +1,5 @@
 ---
-label: Investors interested in our project
+label: Investors
 order: 100
 icon: dot
 tags: [invests, funds, together]
@@ -63,5 +63,5 @@ We have completed the private sale phase. We raised over $1.1 million from 10 in
 </style>
 
 -->
-They invested in EAAS not only because they believe in the project and our business model.
+They invested in eaas.global not only because they believe in the project and our business model.
 Our long-term cooperation was key as we successfully completed many international projects before.
