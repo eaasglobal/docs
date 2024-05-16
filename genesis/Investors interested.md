@@ -1,5 +1,6 @@
 ---
 label: Investors
+visibility: private
 order: 100
 icon: dot
 tags: [invests, funds, together]

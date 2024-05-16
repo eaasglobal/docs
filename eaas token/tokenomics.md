@@ -1,10 +1,15 @@
 ---
 order: 400
 icon: dot
+visibility: private
 tags: [guide]
 ---
-![](/src/headers/11_tokenallocation.png)
+![](/src/updated/Page12.jpg)
+---
+![](/src/updated/VESTING.jpg)
 
+
+<!--
 We believe that real blockchain adoption and tokenomics are aligned towards the best understanding of common wealth for everyone who owns a token. Our tokenomics are super clear and simple: more DePin for green energy equal bigger gains for token owners, stakers, and passive income growth. Adoption and usability are key factors for powerful change towards a zero-carbon future for all of us.
 
 
@@ -68,22 +73,22 @@ Token allocations and vesting schedules promote long-term project success and pr
 ## Initial Bond Offering/Liquidity Bootstrapping Pools, or IBO/LBPs: 
 
 
-In collaboration with Fjord Foundry, eaas.global develops strategic liquidity bootstrapping programs to strengthen its position in the market, promote token circulation, and guarantee stakeholder distribution. 
+In collaboration with Fjord Foundry, EAAS.GLOBAL develops strategic liquidity bootstrapping programs to strengthen its position in the market, promote token circulation, and guarantee stakeholder distribution. 
 
 ## To sum up:
 
 
 The primary objective of the $EAAS token is to enhance token liquidity, instill trust in investors, and foster sustainable expansion within the carbon market by means of efficient financial management, our groundbreaking technology, and resource allocation. It merges technological advancements with real-world actions, encouraging all individuals and organizations contribute to our sustainable future. 
-
+-->
 
 <!-- 
 
 |                                     |                                   |
 |-------------------------------------|-----------------------------------|
-| **Tokenomics**                      | https://eaas.global/token?chart=1 |
-| **Token Allocations**               | https://eaas.global/token?chart=2 |
-| **Full Stock Model**                | https://eaas.global/token?chart=3 |
-| **Initial Market Cap Calculations** | https://eaas.global/token?chart=4 |
+| **Tokenomics**                      | https://EAAS.GLOBAL/token?chart=1 |
+| **Token Allocations**               | https://EAAS.GLOBAL/token?chart=2 |
+| **Full Stock Model**                | https://EAAS.GLOBAL/token?chart=3 |
+| **Initial Market Cap Calculations** | https://EAAS.GLOBAL/token?chart=4 |
 
 
 -->

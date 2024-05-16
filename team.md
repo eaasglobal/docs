@@ -5,10 +5,11 @@ order: 1000
 tags: [fundaments]
 ---
 
-Few months of dedicated work by our brilliant team, we are happy to announce stealth team behind growth behind $EAAS Token, EAAS Framework and DePIN hardware.
+Few Years of dedicated work by our brilliant team, we are happy to announce stealth team behind growth behind EAAS.GLOBAL
+
 Gratefully, we can rely on an extensive network of friends and partners whose #web3 carbon stacks and climate finance services support our cause. 
 
-![](/src/headers/14_team.png)
+![](/src/updated/Page15.jpg)
 
 
 | Team Name                                       | Title                              | Social Link                                       |
@@ -18,21 +19,18 @@ Gratefully, we can rely on an extensive network of friends and partners whose #w
 | Tomasz Kaczmarski                                             | Legal Head, PhD Candidate         | [LinkedIn](https://www.linkedin.com/in/tomasz-kaczmarski-1498572a9/) |
 | Amelia Wroblewska                               | MD Legal, Carbon Credits Legal    | [LinkedIn](https://www.linkedin.com/in/amelia-wr%C3%B3blewska-a28b23166/) |
 | Izabela Monska                                      |Legal                                    | [LinkedIn](https://www.linkedin.com/in/izabela-mo%C5%84ska-a6b98a210/) |
-| **App**                                         |                                    |                                                   |
-| Marek Golan                                     | App Tech                           | [LinkedIn](https://www.linkedin.com/in/marek-golan/) |
-| Piotr Pienkowski                                | App Design                         | [LinkedIn](https://www.linkedin.com/in/piotrpienkowski/) |
-| Elina Schastnaya                                | App UI/UX                          | [LinkedIn](https://www.linkedin.com/in/eschastnaya/) |
-| **Data Tech Framework**                         |                                    |                                                   |
+| **Art & Graphics**                                         |                                    |                                                   |
+| Tytus Gruszczynski                                     | Art Director                           | [LinkedIn](https://www.linkedin.com/in/tytusgruszczynski/) |
+| Klaudia Korycka                                | Graphic Design                         | [LinkedIn](https://www.linkedin.com/in/klaudia-korycka-95a503222/) |
+ **Data Tech Framework**                         |                                    |                                                   |
 | Alexey Kulik                                    | CTO, ZK Data Architect            | [LinkedIn](https://www.linkedin.com/in/alexeykulik/) |
 | Viktor Shpak                                    | Token Architect                   | [LinkedIn](https://www.linkedin.com/in/vshpak/) |
 | Farrukh Turgunov                                | Algorithm, Code/Math              | [LinkedIn](https://www.linkedin.com/in/farrukhturgunov/) |
-| **DePIN Arch and Tech**                         |                                    |                                                   |
+| **Tech and Marketing**                         |                                    |                                                   |
 | Wiktor Krzeszewski                              |DeepTech                                    | [LinkedIn](https://www.linkedin.com/in/wiktorkrzeszewski/) |
 | Nematjon Yusubjonov                              | Data Math                          | [LinkedIn](https://www.linkedin.com/in/nematjon-yusubjonov/) |
-| Klaudia Korycka                                 | Data Cloud                         | [LinkedIn](https://www.linkedin.com/in/klaudia-korycka-95a503222/) |
+| Przemysław Kołak                                 | Marketing                         | [LinkedIn](https://www.linkedin.com/in/pkolak/) |
 
-
-## Advisors
 
 ## Advisors
 
