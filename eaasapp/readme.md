@@ -9,7 +9,4 @@ Presenting the EAAS App, an innovative tool set to transform environmental susta
 
 With just a few clicks, users can participate in sustainable activities and earn CO2 credits, which can be converted into blockchain-verified several forms of financial rewards, at location-specific CO2 pricing.
 
-<div style="text-align:center;">
-    <img src="/src/updated/LEFT.png" width="300" alt="LEFT">
-</div>
-
+<img src="/src/updated/LEFT.png" width="300">
