@@ -4,9 +4,11 @@ order: 1500
 ---
 
 ---
-![](/src/headers/7_legal.png)
 
-# Legal Framework
+
+# Legal
+
+![](/src/updated/LEGAL.jpg)
 
 ### International Law:
 

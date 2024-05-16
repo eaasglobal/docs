@@ -1,5 +1,6 @@
 ---
 icon: tools
+visibility: private
 order: 2000
 ---
 

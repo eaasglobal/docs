@@ -1,5 +1,6 @@
 ---
 label: Financing
+visibility: Private
 order: 200
 icon: dot
 tags: [funds, invests]

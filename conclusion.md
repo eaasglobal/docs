@@ -1,6 +1,7 @@
 ---
 order: 350
 icon: move-to-end
+visibility: Private
 ---
 
 # Summary

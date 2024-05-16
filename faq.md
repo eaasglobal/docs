@@ -9,7 +9,7 @@ tags: [Frequently asked questions]
 === What is the App?
 Our mobile app is for everyone who wants to monetize environmentally actions   
 === Who is the App for?
-The eaas_app is for business and for casual users:
+The EAAS App is for business and for casual users:
 - for those who are looking for passive income and don not have any capital to put to work
 - want to benefit from staying at the cutting edge of the technologies as blockchain and Zero Knowledge proof
 - care about the future of our planet and would like to profit from the “green practices” they are already doing
@@ -21,7 +21,7 @@ The eaas_app is for business and for casual users:
 - we provide a tool for the users to be rewarded for their pro-living actions
 - constant online - benefits from the tasks. everyon is doing every day like: commuting to work, shopping, sport activities even normal house duties.
 === How do I gain from using the App?
-The eaas_app rewards users for completing green tasks, sharing their data about practices related to sustainability and expanding their knowledge on pro-environmental actions. 
+The EAAS App rewards users for completing green tasks, sharing their data about practices related to sustainability and expanding their knowledge on pro-environmental actions. 
 The more information the user shares, the better the rewards.
 === Who pays for the rewards I get from using the App?
 Government and big corporations are paying for carbon credits today, soon everyone person will be forced to count it in life budget. We are bringing this opportunity for mass adoption thans to blockchain validation and technology of tomorrow  
@@ -31,12 +31,12 @@ You can start by downloading the application for iOS and Android. It is quick an
 ===
 ## SCORING & REWARDING
 === What is the purpose of the Reward Allocation Algorithm ?
-Reward Allocation Algorithm is our way of motivating and rewarding eaas_app users with Carbon Credits for completing sustainable tasks, participating in community activities and learning about environmentally conscious behaviors.  
-Additionally, together with our legal framework, the system is a proof of our commitment towards the clarity, transparency and fairness as eaas.global aims to become the most trusted and compliant aggregate of Carbon Credits on the Market.
+Reward Allocation Algorithm is our way of motivating and rewarding EAAS App users with Carbon Credits for completing sustainable tasks, participating in community activities and learning about environmentally conscious behaviors.  
+Additionally, together with our legal framework, the system is a proof of our commitment towards the clarity, transparency and fairness as EAAS.GLOBAL aims to become the most trusted and compliant aggregate of Carbon Credits on the Market.
 === What are the different user tiers and their corresponding privileges?
-There are 3 user tiers: Casual, Advanced and Professional. The tiers are dependent on the amount of information the eaas_app user is willing to share, with each tier offering increased privileges and prizes as a reward for the more accurate Data we are able to acquire. 
+There are 3 user tiers: APP ROOKIE, APP PRO and DEPIN DYNAMO. The tiers are dependent on the amount of information the EAAS App user is willing to share, with each tier offering increased privileges and prizes as a reward for the more accurate Data we are able to acquire. 
 === How are CO2 scoring values assigned to different actions based on user tiers?
-CO2 score values are assigned differently for each category (ESG, Carbon, Depin, Behavioral, and CC) according to the user's tier. The higher the tier - the more precise information about users sustainability practices eaas.global acquires which means These variables affect how many CO2 credits the user earns for performing actions in each category.
+CO2 score values are assigned differently for each category (ESG, Carbon, DePIN, Behavioral, and CC) according to the user's tier. The higher the tier - the more precise information about users sustainability practices EAAS.GLOBAL acquires which means These variables affect how many CO2 credits the user earns for performing actions in each category.
 === How is the total CO2 credit earned by a user calculated?
 We add CO2 score values earned by the user in each category and multiply it by the value determined by the user’s tier.
 === How are users rewarded with $EAAS tokens based on their total CO2 credits earned?
@@ -58,8 +58,8 @@ Two types of carbon market exist; the regulatory compliance and the voluntary ma
 
 - The compliance market is used by companies and governments that by law have to account for their GHG emissions. It is regulated by mandatory national, regional or international carbon reduction regimes. 
 - On the voluntary market the trade of carbon credits is on a non-compulsory basis. 
-=== What role does eaas.global play in the Carbon Credits world?
-As eaas.global, we have set an overarching goal of transparency in our operations and a solid legal foundation based on in-depth legal research and consultation. 
+=== What role does EAAS.GLOBAL play in the Carbon Credits world?
+As EAAS.GLOBAL, we have set an overarching goal of transparency in our operations and a solid legal foundation based on in-depth legal research and consultation. 
 Our operations are based on already existing legislation of international law and European regulations. This allows us to ensure that carbon credits YOU gained through our APP meet the highest standards and make a real contribution towards reducing the human impact on global warming.
 === What is the legal framework that lets us validate users’ contributions as carbon Carbon credits ?
 The starting point and reference for any new regulation we consider is Article 6 of the Paris Agreement. The provision provides a framework for how countries can voluntarily cooperate to meet their climate goals. It also enables parties to use international emissions trading to help meet emissions reduction targets and establishes a framework for common, robust accounting rules and creates a new, more ambitious market mechanism. Under Article 6, countries can transfer carbon credits earned from reducing greenhouse gas emissions to help one or more countries meet their climate goals.Another document we rely on is the United Nations Framework Convention on Climate Change. It provides a Guide for conducting measurements to estimate carbon stocks in afforestation and reforestation (A/R) projects under the Clean Development Mechanism.
@@ -85,7 +85,7 @@ The 3 main directives that tackle sustainability issues in the European Union. T
 EU directives are to be transposed into the national law of each Member State.  
 Furthermore, CSRD, SFRD and CSDDD do not exempt outside business entities outside of the EU from the ESG obligations as long as they meet the criteria set out in CSRD and SFRD. 
 === What is our role?
-eaas.global aims to help corporations  fulfill their ESG obligations in compliance with the EU Law via the mobile app. Additionally it helps with reporting of those metrics and scores them, alleviating businesses of the issue of writing lengthy documents.
+EAAS.GLOBAL aims to help corporations  fulfill their ESG obligations in compliance with the EU Law via the mobile app. Additionally it helps with reporting of those metrics and scores them, alleviating businesses of the issue of writing lengthy documents.
 ===
 ## Carbon Credit
 === But what exactly is a carbon footprint? 
@@ -97,26 +97,26 @@ The burning of fossil fuels such as coal, oil, and natural gas is one of the mai
 === Why has the EU introduced CO2 restrictions, and who do they apply to
 Recognizing the urgency of climate change, the European Union has taken bold steps to address CO2 emissions. Their primary motivation is to mitigate climate change by implementing strict regulations.   
 These regulations include emissions caps and trading schemes to reduce CO2 emissions from industries and power plants. Additionally, the EU has set ambitious targets for transitioning to renewable energy sources and improving energy efficiency. The main goal set by the EU  is to limit global warming to less than 2 degrees Celsius above pre-industrial levels set in international agreements such as the Paris Agreement. Each company included in this system must have an allocation for each tonne of CO2 it emits. Moreover, they can be freely traded. Thanks to this, program participants can buy additional allowances or sell surplus allowances if their emissions have decreased. 
-=== Why is CO2 offsetting important according to eaas.global?
-At eaas.global - the company whose main goal is to pursue sustainable development we believe that projects related to reducing CO2 emissions, projects related to carbon capture, and carbon utilization are indispensable elements of the pursuit of sustainable development. Our app will provide its users - be it private or corporate - a means of decreasing their carbon footprint.
+=== Why is CO2 offsetting important according to EAAS.GLOBAL?
+At EAAS.GLOBAL - the company whose main goal is to pursue sustainable development we believe that projects related to reducing CO2 emissions, projects related to carbon capture, and carbon utilization are indispensable elements of the pursuit of sustainable development. Our app will provide its users - be it private or corporate - a means of decreasing their carbon footprint.
 ===
 ## DePIN
 === What is DePIN?
 DePIN (Decentralized Physical Interface Network) is a conceptual framework for interactions between physical devices and digital platforms through decentralized technologies.
-=== What is DePIN within the eaas.global ecosystem?
-DePIN are advanced devices specifically designed to measure the output from renewable energy sources like solar panels and wind turbines. They seamlessly integrate with the eaas_app, ensuring that data regarding energy consumption, production, and CO2 reduction is accurately captured and securely transmitted to the eaas.global platform for analysis, scoring, and rewarding.
+=== What is DePIN within the EAAS.GLOBAL ecosystem?
+DePIN are advanced devices specifically designed to measure the output from renewable energy sources like solar panels and wind turbines. They seamlessly integrate with the EAAS App, ensuring that data regarding energy consumption, production, and CO2 reduction is accurately captured and securely transmitted to the EAAS.GLOBAL platform for analysis, scoring, and rewarding.
 === How does DePIN benefit users?
-DePIN connects directly to renewable energy installations, continuously monitoring their output and efficiency. The gathered data is then transmitted to the eaas.global platform, which calculates the amount of CO2 reduced by the user’s renewable energy production. 
+DePIN connects directly to renewable energy installations, continuously monitoring their output and efficiency. The gathered data is then transmitted to the EAAS.GLOBAL platform, which calculates the amount of CO2 reduced by the user’s renewable energy production. 
 
 DePIN provides real-time data that comes directly from the device and is impossible to manipulate. This approach makes DePIN data more valuable for accurate CO2 offset calculations, and DePIN users get more rewards being Tier 1 users (see Scoring). It not only incentivizes further adoption of renewable energy but also provides users with an easy way to capture and quantify the impact of their sustainability efforts without manual actions
 === Are DePIN suitable for all renewable energy producers and consumers?
-Yes, DePIN devices are designed to be universally compatible with a wide array of renewable energy systems, from residential solar panel setups to commercial wind turbines. This ensures that regardless of the scale or type of renewable energy source, users can benefit from precise data collection and rewards. eaas.global inclusive approach aims to encourage a diverse group of individuals and businesses to go renewable energy, driving the positive environmental impact.
+Yes, DePIN devices are designed to be universally compatible with a wide array of renewable energy systems, from residential solar panel setups to commercial wind turbines. This ensures that regardless of the scale or type of renewable energy source, users can benefit from precise data collection and rewards. EAAS.GLOBAL inclusive approach aims to encourage a diverse group of individuals and businesses to go renewable energy, driving the positive environmental impact.
 
 Through the deployment of DePIN devices, we are paving the way for a future where renewable energy is not only encouraged but also rewarded, making a sustainable lifestyle accessible and attractive to a broader audience.
 ===
 ## $EAAS Token
 === What is the purpose of $EAAS token?
-The $EAAS Token serves multiple functions: rewarding users and verifying their actions. When users engage in activities that contribute to a greener planet, such as reducing energy consumption or using renewable resources, these actions are securely logged and evaluated by the eaas.global scoring system. The authenticity of each action and its CO2 offset is confirmed within a legal framework, ensuring adherence to the latest environmental standards and regulations. This process rewards users with $EAAS tokens and also verifies their contributions to fighting climate change.
+The $EAAS Token serves multiple functions: rewarding users and verifying their actions. When users engage in activities that contribute to a greener planet, such as reducing energy consumption or using renewable resources, these actions are securely logged and evaluated by the EAAS.GLOBAL scoring system. The authenticity of each action and its CO2 offset is confirmed within a legal framework, ensuring adherence to the latest environmental standards and regulations. This process rewards users with $EAAS tokens and also verifies their contributions to fighting climate change.
 === How does the $EAAS token work?
 The $EAAS token is a Real-World Asset (RWA),and it encapsulates verified eco-friendly activities and their respective CO2 offsets within a legal framework. However, it’s important to note that while $EAAS tokens represent the impact of such actions, they are not direct equivalents of CO2 credits, because they’re designed to operate within a broader framework of incentives and legal compliance. 
 
@@ -128,10 +128,10 @@ The $EAAS token offers several key advantages:
 3.	Liquidity: Traditional CO2 markets place barriers that exclude individuals and small companies from participating due to stringent eligibility criteria. The $EAAS token democratizes access to environmental asset trading, transforming previously illiquid assets into liquid opportunities. This means users can financially benefit from their actions, offering additional liquidity and earnings from their sustainability efforts.
 ===
 ## Zero-Knowledge Proof
-=== What is Zero-Knowledge Proof (ZKP), and how is it used in the eaas.global ecosystem?
+=== What is Zero-Knowledge Proof (ZKP), and how is it used in the EAAS.GLOBAL ecosystem?
 Zero-Knowledge Proof is a cryptographic protocol that allows one party (the prover) to prove to another party (the verifier) that a statement is true, without revealing any information beyond the validity of the statement itself. 
-Within the eaas.global ecosystem, ZKP is utilized to verify that users have engaged in sustainable activities and those activities result in CO2 reduction. eaas.global assesses the environmental impact of user actions, and allows to create cryptographic proof of actions and legally compliant scoring. This proof can then be verified by third parties, such as smart contracts, to distribute $EAAS tokens, ensuring the process is secure, private, and efficient.
+Within the EAAS.GLOBAL ecosystem, ZKP is utilized to verify that users have engaged in sustainable activities and those activities result in CO2 reduction. EAAS.GLOBAL assesses the environmental impact of user actions, and allows to create cryptographic proof of actions and legally compliant scoring. This proof can then be verified by third parties, such as smart contracts, to distribute $EAAS tokens, ensuring the process is secure, private, and efficient.
 === How does ZKP benefit users?
-ZKP benefits users by protecting their privacy and data security, ensuring that their participation remains confidential. For the overall sustainability mission of eaas.global, ZKP adds a layer of credibility and trust to the reward system. It ensures that rewards for sustainable actions are accurately and fairly distributed, fostering a transparent ecosystem where users are motivated to contribute more actively towards environmental sustainability.
+ZKP benefits users by protecting their privacy and data security, ensuring that their participation remains confidential. For the overall sustainability mission of EAAS.GLOBAL, ZKP adds a layer of credibility and trust to the reward system. It ensures that rewards for sustainable actions are accurately and fairly distributed, fostering a transparent ecosystem where users are motivated to contribute more actively towards environmental sustainability.
 === Can ZKP be used with third-party verifiers other than smart contracts?
-Yes, ZKP is versatile and can be integrated with a variety of third-party verifiers beyond smart contracts. While smart contracts are a common choice for automating the verification of proofs, ZKP can also work with traditional verification entities or other decentralized applications that aim to validate user actions. This flexibility allows eaas.global to collaborate with multiple partners and platforms, expanding the ecosystem and enhancing opportunities for users to be rewarded for their sustainable contributions.
+Yes, ZKP is versatile and can be integrated with a variety of third-party verifiers beyond smart contracts. While smart contracts are a common choice for automating the verification of proofs, ZKP can also work with traditional verification entities or other decentralized applications that aim to validate user actions. This flexibility allows EAAS.GLOBAL to collaborate with multiple partners and platforms, expanding the ecosystem and enhancing opportunities for users to be rewarded for their sustainable contributions.
