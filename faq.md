@@ -34,7 +34,7 @@ You can start by downloading the application for iOS and Android. It is quick an
 Reward Allocation Algorithm is our way of motivating and rewarding EAAS App users with Carbon Credits for completing sustainable tasks, participating in community activities and learning about environmentally conscious behaviors.  
 Additionally, together with our legal framework, the system is a proof of our commitment towards the clarity, transparency and fairness as EAAS.GLOBAL aims to become the most trusted and compliant aggregate of Carbon Credits on the Market.
 === What are the different user tiers and their corresponding privileges?
-There are 3 user tiers: APP ROOKIE, APP PRO and DEPIN DYNAMO. The tiers are dependent on the amount of information the EAAS App user is willing to share, with each tier offering increased privileges and prizes as a reward for the more accurate Data we are able to acquire. 
+There are 3 user tiers: APP ROOKIE, APP ACE and DEPIN DYNAMO. The tiers are dependent on the amount of information the EAAS App user is willing to share, with each tier offering increased privileges and prizes as a reward for the more accurate Data we are able to acquire. 
 === How are CO2 scoring values assigned to different actions based on user tiers?
 CO2 score values are assigned differently for each category (ESG, Carbon, DePIN, Behavioral, and CC) according to the user's tier. The higher the tier - the more precise information about users sustainability practices EAAS.GLOBAL acquires which means These variables affect how many CO2 credits the user earns for performing actions in each category.
 === How is the total CO2 credit earned by a user calculated?
