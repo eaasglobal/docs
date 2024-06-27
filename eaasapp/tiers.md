@@ -4,7 +4,11 @@ laber: Tiers
 icon: dot
 ---
 
-![](/src/updated/Tiers.jpg)
+![](/src/updated/APP_ACE.jpg)
+![](/src/updated/APP_ROOKIE.jpg)
+![](/src/updated/DEPIN_DYNAMO.jpg)
+
+
 ---
 With the app's TIER concept, users can be grouped according to their own standards. The distribution of CO2 credits for their sustainability initiatives differs based on their TIER. This tiered system guarantees customized rewards based on each person's level of commitment and sustainability initiatives.  
 
