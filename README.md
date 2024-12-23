@@ -9,6 +9,9 @@ tags: [mission, EAAS.GLOBAL]
 
 EAAS.GLOBAL is committed to leading the industry in sustainability and profitability. With eaas_app, ZKP Algorithm, and DePIN hardware, we harness the potential of carbon footprint data to reward positive environmental actions with $EAAS Tokens
 -->
+ Climate action demands more than paperwork and talk — it requires real action. Our system
+ turns this principle into practice by **encouraging and rewarding everyday sustainable activities**
+
 # Mission
 
 To provide everyone with a simple way to enrich their lives by verifying their participation in the global movement to clean up our environment. All people deserve more rewards for taking even the smallest steps toward a sustainable future
@@ -35,7 +38,18 @@ With just a few smartphone clicks and cable connections, individual EAAS communi
 - 💰the option to get several forms of financial rewards.     
 
 ---
-We protect your privacy while verifying your green actions using advanced technology. Plus, our technology shows concrete proof that you're helping the environment by offsetting emissions.
+
+## Features and Benefits:
+-  Action-Oriented: Gamified app rewards sustainable behavior, including automated data 
+from smart devices. 
+-  Carbon Credits: Verified activities translate into tangible credits. 
+-  Regulatory Compliance: Data adheres to laws and GDPR. 
+-  Insightful: Machine learning suggests impactful actions. 
+-  Future-Proof: Reinterprets past actions as environmental science advances, keeping the 
+platform relevant. 
+-  Privacy-Preserving: Zero-knowledge proofs ensure user data remains private. 
+
+By bridging technology and environmental action, we're creating a tool that not only benefits users but also provides valuable data for markets, research and policy-making
 
 ## Support
 

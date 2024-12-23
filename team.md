@@ -58,13 +58,3 @@ Gratefully, we can rely on an extensive network of friends and partners whose #w
 
 
 ![](src/headers/people_welcome.png)
-
-**Anyone is welcomed, no matter of:**
-- Age
-- Gender reassignment
-- Being married or in a civil partnership
-- Being pregnant or on maternity leave
-- Disability
-- Race including colour, nationality, ethnic or national origin
-- Religion or belief
-- Sex

@@ -5,19 +5,21 @@ label: DePIN
 ---
 
 
-# DePIN: Revolutionizing Green Energy with EAAS.GLOBAL
+### Revolutionizing Green Energy with EAAS.GLOBAL
 In a world increasingly focused on environmental sustainability, [EAAS.GLOBAL](https://EAAS.GLOBAL/) is proud to unveil a groundbreaking solution poised to revolutionize the green energy landscape. With the introduction of **DePIN**, EAAS.GLOBAL takes a monumental leap forward, offering individuals and businesses alike the opportunity to actively participate in the creation and utilization of renewable energy assets. This monumental achievement signals a new era of decentralized energy production and consumption, empowering users to contribute towards a cleaner, greener future.
 
 
-# Decentralized Physical Interface Network (DePIN)
+### Decentralized Physical Interface Network (DePIN)
  DePIN unites specialized devices that connect physical renewable energy sources, like solar panels and wind turbines, to the digital world. These devices measure and verify the energy output and CO2 savings in real time.
  - Real-Time Monitoring and Reporting: Energy production and consumption data is accurately captured and provided to the EAAS.GLOBAL platform for immediate scoring and further reward.
  - Tamper-proof Data: Improves the integrity of the data used for calculating rewards, ensuring that all reported figures are manipulation-free, accurate, and reflect real-world impact.
  - Universal Compatibility: Designed to work with any renewable energy setup, facilitating widespread adoption and seamless integration into various energy systems.
 
 
-## DEEP & TOUCH HARDWARES 
+### DEEP & TOUCH HARDWARES 
 DePIN, available in two variants – DEEP and TOUCH, caters to both large-scale energy installations and smaller users, respectively. Leveraging over 1500 data points, DePIN seamlessly integrates with the EAAS.GLOBAL ecosystem, enabling users to track and monitor their energy consumption while earning rewards in the form of CO2 credits.
+
+![](/src/updated/DEPIN_NEW.jpg)
 <!--
 ## $EAAS Token: Empowering Users with Versatile Utility
 
@@ -46,7 +48,6 @@ With EAAS GLOBAL's innovative approach, everyone can participate in the green en
 
 EAAS GLOBAL is a data framework, token cross-chain for green energy, c2c, p2p, p2b, b2gov levels, native API k to platforms, exchange, and distributed storage. EAAS GLOBAL provides true interoperability between public blockchains and even grid operators. With **DEPIN** at the helm, EAAS GLOBAL is shaping a future where green energy is accessible to all, paving the way for a cleaner, greener planet.
 -->
-Press contact
 
 info@EAAS.GLOBAL
 
@@ -70,8 +71,8 @@ info@EAAS.GLOBAL
 
 **EAAS SMART DEEP**: This fully integrated electricity meter also features 5G and Bluetooth connectivity. It is specifically tailored for large producers, offering comprehensive monitoring capabilities for their operations.
 
+
+
+<img src="/src/updated/DEPIN_NEW.jpg" width="300">
 -->
-
-<img src="/src/headers/depin_2.png" width="300">
-
 
